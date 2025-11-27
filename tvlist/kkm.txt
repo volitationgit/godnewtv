@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=6600537,AVERAGE-BANDWIDTH=6600537,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.640028,mp4a.40.2"
+https://tvcastlive-hamivideo.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live023/hls-ae-tv/index_4.m3u8?url_type=&token=KioAHFBsopAHZd2jFCM6iQ&expires=1761485742&content_pk=OTT_LIVE_0000001564&content_id=1564&product_id=10437&serial_no=1760077413-58-45-10-54-37&device_id=24990b0d50d91f01&auth_type=hn&auth_by=86908554&sales_plan_id=35137&ts_id=&auth_login_id=86908554&user_profile_id=72b4f0ea51e50906e12e4f39981baefc@1709222400&device_os=androidtv_9&device_type_name=tv&chsm=b9fcf94343f641694112f41a2c83b0a4&record_idx=2066433249&m=1705896461

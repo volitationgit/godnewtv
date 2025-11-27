@@ -1,0 +1,49 @@
+🏵️免費測試🏵️,#genre#
+翡翠臺,tvbus://9S4tMcW6DGE8UU6Jo64f2aY8jaKx5KujNvpzsxn
+CM+,tvbus://9FRoUiAToDH3LWhGxYrjsYs3d4mR8AoWmaho21n
+Popc,tvbus://9awDx8gPwJt8tBWpSvuT4BQBoTavtPqFFXqgNLT
+CCTV-5,tvbus://A2U5SZngJHNVFVXCdSK3onLBe16ingHmevFz6qb
+BBCcbeebis,tvbus://9cAqZFkQHpTSmoeMwdRvP8WB9tCRfioLB82NBgk
+HubPremier1,tvbus://BWf1TcfjxoMANRR6x7G7i4UF5SaPgLx7378S99a
+TVB功夫臺(多音軌),tvbus://92sfR8x7ogDwZyGeS8P3Jq1DqCJDzZ7dUBpRYht
+NOW 新聞臺(多音軌),tvbus://9cdp2kLPZbYS5qyzDGGWqBHThh2SYA2igewzCsK
+美亞電影臺(多音軌),tvbus://BMWPTXD16mCWe8TnBH6o8dPZtKer58QSe5LAeLy
+TVBS歡樂臺,tvbus://9LSWjBVUR5dWG6GbydcH57TYVwN5Ym7c9gXAKfL
+東森電影臺,tvbus://9ygvDzebCe8D11PGDfj5StK6vFYR7eq7AYDXDoZ
+三立臺灣臺,tvbus://B7TZfK9tciQEK6fEdm9pEHXpK5XKtDj8jNW3WY7
+好萊塢電影臺,tvbus://AwvgVrTMunAekwf69EiYeCarcm92L832jAcVSLU
+天映經典頻道(多音軌),tvbus://938tXHznhVPnZTgq2b3gtewa27cmtgxhm4mi5fA
+CCTV英語臺,tvbus://BQHiHYb9zMqu6MfreNvS4PM2DEms2HCNCxAtUKU
+CCTV法語臺,tvbus://B2pUHPN6w1ppjgLWY8smKbshicopvdBWwqHnA2S
+CCTV俄語臺,tvbus://ALgU1xgkisHMA9s6jzXhemf15pSuh18x6ChqYTd
+CCTV記錄臺,tvbus://AXTNYm9ARNyCqxPE6hs4fvtkTUM8LggdppnTZuz
+CCTV阿拉伯,tvbus://ADEicNda577kvd1uGXZgRawFPvMUujbXvTr7XXr
+鏡新聞臺,tvbus://BCBvygroLDdkgTUezH2WShHLbEgV3iMHkFTsZgt
+臺視新聞臺,tvbus://BBNz1a4Q2BVx69EXFVNKmD9YCvpTfLhq3WZbwjV
+中視新聞臺,tvbus://AAHvpXTor9U6KeANzMFFToxtmgjqxiGGkR1uUxN
+民視新聞臺,tvbus://AhZRCdb9WQQWCRxyYFVeocEnB74XWDhvpDJHzBX
+華視新聞臺,tvbus://AKdVfRZe3cXMLtssq6U7sFzS166wgVKw3ufyVcn
+公視新聞臺,tvbus://A2TnYvLALKnQwGpKHj5sS6vHR42NHoq4rTCa38Y
+東森新聞臺,tvbus://9Qt55WaVCkUPuHG2ttgggkUdkmbAfMXooePBgXb
+中天新聞臺,tvbus://AjmSWihjuTn56xoN3ejzeRTFR6g9izaxyiuysD9
+中天新聞2,tvbus://9hHUnFZmeWm97VoSJuqQyLU61VG3dpYvZyDz31L
+中天亞洲臺,tvbus://BXnDdHHpYucVyGacbJuWf3U3MHQKdvinU7WMfFN
+三立iNEWS,tvbus://BJa7umLCCJYHcrY1AeGtddWWDM2kmReaYbQcdQ5
+寰宇新聞臺,tvbus://AvJwoxdePfJ1Dqj2CXdpmk81zbmv4gGMDZhQBFR
+寰宇新聞臺灣臺,tvbus://AETGfJhGLZgpzvfRxr5i8KUUyqGWgvohv7WZx1t
+Euronews,tvbus://B2bpipcYQB8kWhFCw46mM7bAHzgUXKbgNfie4jM
+華藏衛視,tvbus://9EfmzRwJ1fzZsT7a6ELVDCbJqqvjNC49hnsiTwk
+大愛一臺,tvbus://BRCbTe3P57jedZnDFJvtLqbTj8qV6QuRePCo7RL
+大愛二臺,tvbus://AesiYDzLwcJ1BqkL1C41hp4wuxUMg4RoTY9CSH3
+RT,tvbus://9GQPj19k2hzUGGrRkVniw4KVk8Pgdk5d1NY88iN
+TV5Monde,tvbus://Ah4gieqU9SrsLQfWQubzwtcGVEfnrin3vnmKXsQ
+Sky News,tvbus://B4MM4CsTrDv3FzYBNXGSJy5VcASgEha1iAWsFwP
+DW News,tvbus://ABdEpzihta2bmRQWPYFkcYsLKQhn9mjQRMdHMhm
+ABC News,tvbus://8us4yc6u73D3kBLyK9ZrWuJLDUohvYQe7qTcE3d
+Al Jazeera,tvbus://9cucyE8pXhDC3pPgy88A86on5Vk4QRnA9hFAvFj
+Россия-24,tvbus://9V7FFVYTDUc1eGHiwxNm8Xxq8Q7huxB2Q45Z3Gt
+연합뉴스TV,tvbus://9F418EmT2sFQokGKJgpRBn7cFQa2E2Qko8JCTMD
+FRANCE 24,tvbus://9KvHHp7Gcsytu6UY236Nbr6bZqZx1D93bn2gasM
+Australia ABC News,tvbus://9dtGNmo9jtBqXUnf1LgBSTwnmxFW4tYSevpVfM3
+🏵️加密頻道🏵️_9527,#genre#
+1HD,tvbus://9xubjVSRKw1CrnGrSkdecJRuAbSDMRy3SFwZfUh

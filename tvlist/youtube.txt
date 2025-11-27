@@ -1,0 +1,959 @@
+﻿台湾,#genre#
+台视,https://www.youtube.com/watch?v=uDqQo8a7Xmk&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
+台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8&ab_channel=%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9ETTVNEWS
+中视新闻台,https://www.youtube.com/watch?v=TCnaIE_SAtM&ab_channel=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9EHD%E7%9B%B4%E6%92%AD%E9%A0%BB%E9%81%93%EF%BD%9CTaiwanCTVnewsHDLive
+华视新闻台,https://www.youtube.com/watch?v=wM0g8EoUZ_E&ab_channel=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9ECH52
+民视新闻台,https://www.youtube.com/watch?v=ylYJSBUgaMA&ab_channel=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E7%B6%B2FormosaTVNewsnetwork
+公共电视台,https://www.youtube.com/watch?v=C6gYqSHLRw4&ab_channel=%E5%85%AC%E8%A6%96%E7%B6%B2%E8%B7%AF%E7%9B%B4%E6%92%AD%E9%A0%BB%E9%81%93
+公视台语台,https://www.youtube.com/watch?v=6KlRR_DGhmI&ab_channel=%E5%85%AC%E8%A6%96%E5%8F%B0%E8%AA%9E%E5%8F%B0
+公视新闻,https://www.youtube.com/@PNNPTS/live
+镜新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o&ab_channel=%E9%8F%A1%E6%96%B0%E8%81%9E
+寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc&ab_channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E9%A0%BB%E9%81%93
+寰宇新闻台湾台,https://www.youtube.com/watch?v=w87VGpgd90U&ab_channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E9%A0%BB%E9%81%93
+寰宇新闻财经台,https://www.youtube.com/@globlemoney/live
+东森新闻,https://www.youtube.com/watch?v=V1p33hqPrUk_channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9ECH51
+东森财经新闻,https://www.youtube.com/watch?v=WHEPzbFA3hw&ab_channel=57%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E
+NOWnews AI主播,https://www.youtube.com/@NOWnews-sp2di/live
+中天新闻台,https://www.youtube.com/watch?v=oIgbl7t0S_w&ab_channel=%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96
+中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE&ab_channel=%E4%B8%AD%E5%A4%A9%E6%B7%B1%E5%96%89%E5%9A%A8
+中天亚洲台,https://www.youtube.com/@CtiAsia/live
+TVBS新闻,https://www.youtube.com/watch?v=m_dhMSvUCIc&ab_channel=TVBSNEWS
+三立新闻台,https://www.youtube.com/watch?v=oZdzzvxTfUY&ab_channel=%E4%B8%89%E7%AB%8BLIVE%E6%96%B0%E8%81%9E
+三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE&ab_channel=%E4%B8%89%E7%AB%8BiNEWS
+新唐人亚太电视台,https://www.youtube.com/watch?v=WIhgU_mc05A&ab_channel=%E6%96%B0%E5%94%90%E4%BA%BA%E4%BA%9E%E5%A4%AA%E9%9B%BB%E8%A6%96%E5%8F%B0NTDAPTV
+大爱一台,https://www.youtube.com/watch?v=oV_i3Hsl_zg&ab_channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96TzuChiDaAiVideo
+大爱一台(备),https://www.youtube.com/watch?v=MIqUplvSRWA&ab_channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96TzuChiDaAiVideo
+大爱二台(全球),https://www.youtube.com/watch?v=DTNkEm6jaqQ&ab_channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96TzuChiDaAiVideo
+大爱二台(台湾),https://www.youtube.com/watch?v=OKvWtVoDR8I&ab_channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96TzuChiDaAiVideo
+TaiwanPlus TV,https://www.youtube.com/@TaiwanPlusLive/live
+三大一台,https://www.youtube.com/@SDTV55ch/live
+彰视地方台,https://www.youtube.com/@user-uu8fq3tg9h/live
+彰化生活台,https://www.youtube.com/@user-ss9pr1ig8x/live
+彰化资讯台,https://www.youtube.com/@user-zv7rc6vi6w/live
+国会频道１,https://www.youtube.com/watch?v=4HysYHJ6GkY&ab_channel=%E5%9C%8B%E6%9C%83%E9%A0%BB%E9%81%93
+国会频道２,https://www.youtube.com/watch?v=Lj8OWF6nzcg&ab_channel=%E5%9C%8B%E6%9C%83%E9%A0%BB%E9%81%93
+净土宗网路电视,https://www.youtube.com/@user-ry2md7sy1v/live
+正德电视,https://www.youtube.com/watch?v=CHDb5D0DCkw&ab_channel=%E6%AD%A3%E5%BE%B7%E9%9B%BB%E8%A6%96%E5%8F%B0
+华藏卫视,https://www.youtube.com/watch?v=ypmrwYeLAaQ&ab_channel=HZTV%E8%8F%AF%E8%97%8F%E8%A1%9B%E8%A6%96%E7%9B%B4%E6%92%AD2%E5%8F%B0
+海豚综合台,https://www.youtube.com/@24811001/live
+十方法界,https://www.youtube.com/@cbtv2525/live
+信大电视台,https://www.youtube.com/@user-mj5bl5ze5o/live
+诚心电视台,https://www.youtube.com/@chengsintv2/live
+桐瑛台中电视台,https://www.youtube.com/@user-xh5zh4hi9n/live
+桐瑛虎尾电视台,https://www.youtube.com/@user-de3rj3ee4y/live
+桐瑛台南电视台,https://www.youtube.com/@user-bi8wg3wk1y/live
+叫您第一名,https://www.youtube.com/@bdtvbest/live
+三圣电视台,https://www.youtube.com/@tsimtv-01/live
+SBN全球财经台,https://www.youtube.com/@user-ro8bu3to2t/live
+运通财经台,https://www.youtube.com/@EFTV01/live
+美好购物一台,https://www.youtube.com/watch?v=7IyxOiGMLgw&ab_channel=ViVaTV%E7%BE%8E%E5%A5%BD%E5%AE%B6%E5%BA%AD%E8%B3%BC%E7%89%A9
+美好购物二台,https://www.youtube.com/watch?v=lEXITHxcagI&ab_channel=ViVaTV%E7%BE%8E%E5%A5%BD%E5%AE%B6%E5%BA%AD%E8%B3%BC%E7%89%A9
+东森购物一台,https://www.youtube.com/watch?v=ViJ3XiN6Q3M&ab_channel=Live%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E5%8F%B0
+东森购物二台,https://www.youtube.com/watch?v=_Vlzn9qAHD4&ab_channel=Live%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E5%8F%B0
+东森购物三台,https://www.youtube.com/watch?v=Z50JFuNgvB0&ab_channel=Live%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E5%8F%B0
+东森购物四台,https://www.youtube.com/watch?v=u0NYyH3ZesE&ab_channel=Live%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E5%8F%B0
+momo购物一台,https://www.youtube.com/watch?v=_pZQ1Lk0xMA&ab_channel=momo%E8%B3%BC%E7%89%A9%E4%B8%80%E5%8F%B0CH48
+momo购物二台,https://www.youtube.com/watch?v=xbNWkUyxQGM&ab_channel=momo%E8%B3%BC%E7%89%A9%E4%BA%8C%E5%8F%B0CH35
+幸福空间居家台,https://www.youtube.com/@plus8394/live
+ 
+影剧直播,#genre#
+综艺玩很大,https://www.youtube.com/watch?v=QsJ1AYJ1ils&ab_channel=%E7%B6%9C%E8%97%9D%E7%8E%A9%E5%BE%88%E5%A4%A7Mr.Player
+综艺大哥大,https://www.youtube.com/watch?v=oCAq-bo0dFI&ab_channel=%E4%B8%AD%E8%A6%96%E7%B6%93%E5%85%B8%E7%B6%9C%E8%97%9D
+华视戏剧频道,https://www.youtube.com/@cts_drama/live
+同学来了,https://www.youtube.com/watch?v=-05Oe7Axj7c&ab_channel=%E5%90%8C%E5%AD%B8%E4%BE%86%E4%BA%86
+猪哥会社,https://www.youtube.com/watch?v=htGDPsz2BYI&ab_channel=%E8%B1%AC%E5%93%A5%E6%9C%83%E7%A4%BE
+饥饿游戏,https://www.youtube.com/watch?v=A98LJq71BZg&ab_channel=%E9%A3%A2%E9%A4%93%E9%81%8A%E6%88%B2HungerGames
+万秀猪王,https://www.youtube.com/watch?v=ADDSmXoPDY8&ab_channel=%E4%B8%AD%E8%A6%96%E7%B6%93%E5%85%B8%E7%B6%9C%E8%97%9D
+天才冲冲冲,https://www.youtube.com/@CTSSHOW/live
+现代嘉庆君,https://www.youtube.com/watch?v=IsFtLpSuf_g&ab_channel=%E8%8F%AF%E8%A6%96%E7%B6%9C%E8%97%9D%E9%A0%BB%E9%81%93
+MIT 台湾志,https://www.youtube.com/@ctvmit/live
+大陆寻奇,https://www.youtube.com/@ctvchinatv/live
+非凡大探索(台北),https://www.youtube.com/watch?v=dZvFcfw0vVg&ab_channel=%E9%9D%9E%E5%87%A1%E5%A4%A7%E6%8E%A2%E7%B4%A2
+非凡大探索(台中),https://www.youtube.com/watch?v=mcG4uyefQnI&ab_channel=%E9%9D%9E%E5%87%A1%E5%A4%A7%E6%8E%A2%E7%B4%A2
+非凡大探索(高雄),https://www.youtube.com/watch?v=voPSQbg2KJc&ab_channel=%E9%9D%9E%E5%87%A1%E5%A4%A7%E6%8E%A2%E7%B4%A2
+精彩类戏剧,https://www.youtube.com/watch?v=W1pHB9VGjrw&ab_channel=%E5%8F%B0%E8%A6%96%E6%99%82%E5%85%89%E6%A9%9F
+台湾启示录频道,https://www.youtube.com/@ebcapocalypse/live
+蓝色水玲珑,https://www.youtube.com/watch?v=298QROP4xe0&ab_channel=%E6%B0%91%E8%A6%96%E6%88%B2%E5%8A%87%E9%A4%A8FormosaTVDramas
+我爱冰冰Show,https://www.youtube.com/watch?v=RsiJlzZPxjQ&ab_channel=%E6%88%91%E6%84%9B%E5%86%B0%E5%86%B0Show
+掌声响起,https://www.youtube.com/watch?v=EVATvtQHjyg&ab_channel=BIF%E7%9B%B8%E4%BF%A1%E6%9C%AA%E6%9D%A5%E5%AE%98%E6%96%B9%E9%A2%91%E9%81%93
+Asian Foods,https://www.youtube.com/watch?v=nUzOmgx3RvM&ab_channel=LemonFilms%E6%AA%B8%E6%AA%AC%E8%81%B7%E4%BA%BA%E6%8E%A2%E7%B4%A2%E9%A0%BB%E9%81%93
+网路红什麽,https://www.youtube.com/watch?v=XJ2V1P9G1U4&ab_channel=%E7%9B%B4%E6%92%AD%E7%B7%9A%E4%B8%8A
+女人我最大(每晚九点),https://www.youtube.com/@womanqueen/live
+HOP Sports(不定时),https://www.youtube.com/@HOPSports/streams/live
+台湾街头美食(不定时),https://www.youtube.com/@asianfoodnearme/live
+星光大道(不定时),https://www.youtube.com/@superstarshow/live
+电视电影 Movie Series(不定时),https://www.youtube.com/@1905-MovieSeries/live
+中国电影频道(不定时),https://www.youtube.com/@CCTV6-1905/live
+MadHouse免费电影(不定时),https://www.youtube.com/@MadHouseFreeMovie/live
+FAST 免费电影(不定时),https://www.youtube.com/@FASTMOVIE168/live
+Body Sports 运动频道(不定时),https://www.youtube.com/@bodysports9644/live
+企鹅大影院(不定时),https://www.youtube.com/@TencentVideoMovie/live
+ 
+24H追剧,#genre#
+终极系列,https://www.youtube.com/watch?v=Pxcko46uxYQ&ab_channel=%E7%B5%82%E6%A5%B5%E7%B3%BB%E5%88%97
+廉政英雄,https://www.youtube.com/watch?v=wJ5i4x9_kEY&ab_channel=%E6%B0%91%E8%A6%96%E6%88%B2%E5%8A%87%E9%A4%A8FormosaTVDramas
+我和我们在一起,https://www.youtube.com/watch?v=FdoVTSTSMho&ab_channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%BD%B1%E5%8A%87%E5%8F%B0
+恶作剧之吻,https://www.youtube.com/watch?v=gXl9nCj4ue4&ab_channel=GTVDRAMA%E5%85%AB%E5%A4%A7%E5%8A%87%E6%A8%82%E9%83%A8
+神机妙算刘伯温,https://www.youtube.com/watch?v=SoXyBzGajJQ&ab_channel=%E5%8F%B0%E8%A6%96%E6%99%82%E5%85%89%E6%A9%9F
+放羊的星星 斗牛要不要,https://www.youtube.com/watch?v=N4B2upiia4c&ab_channel=%E4%B8%89%E7%AB%8B%E8%8F%AF%E5%8A%87SETDrama
+败犬女王,https://www.youtube.com/watch?v=mE0Qsb6R0Kg&ab_channel=%E4%B8%89%E7%AB%8B%E8%8F%AF%E5%8A%87SETDrama
+神鵰侠侣,https://www.youtube.com/watch?v=Vu_eDZF3PXU&ab_channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%B6%9C%E5%90%88%E5%8F%B0
+去有风的地方,https://www.youtube.com/watch?v=be6L9zpVqw4&ab_channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%BD%B1%E5%8A%87%E5%8F%B0
+谢谢你医生,https://www.youtube.com/watch?v=d56Qdf66OEo&ab_channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%BD%B1%E5%8A%87%E5%8F%B0
+风中奇缘,https://www.youtube.com/watch?v=6st08Em5RbM&ab_channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%B6%9C%E5%90%88%E5%8F%B0
+长歌行,https://www.youtube.com/watch?v=I7yYOp7Tqdw&ab_channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%B6%9C%E5%90%88%E5%8F%B0
+风中奇缘,https://www.youtube.com/watch?v=SP7Rx3Iu9T8&ab_channel=GTVDRAMA%E5%85%AB%E5%A4%A7%E5%8A%87%E6%A8%82%E9%83%A8
+将军在上,https://www.youtube.com/watch?v=iOxw4bgNxa4&ab_channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%B6%9C%E5%90%88%E5%8F%B0
+驭鲛记与君初相识+恰似故人归,https://www.youtube.com/watch?v=yh3ZLBl7kt0&list=PLtPJtE4_gezefx3SY5KG4KG5Mna-PMrKP&index=25&ab_channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%B6%9C%E5%90%88%E5%8F%B0
+光芒,https://www.youtube.com/watch?v=Ul9z5eUphFY&list=PLtPJtE4_gezefx3SY5KG4KG5Mna-PMrKP&index=31&ab_channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%B6%9C%E5%90%88%E5%8F%B0
+新兵日记,https://www.youtube.com/watch?v=hbm8Uov-YOE&ab_channel=%E6%B0%91%E8%A6%96%E6%88%B2%E5%8A%87%E9%A4%A8FormosaTVDramas
+步步惊心,https://www.youtube.com/watch?v=ZCxRj5vGFg0&ab_channel=GTVDRAMA%E5%85%AB%E5%A4%A7%E5%8A%87%E6%A8%82%E9%83%A8
+仙剑奇侠传,https://www.youtube.com/watch?v=MtCSXBD5pPg&ab_channel=GTVDRAMA%E5%85%AB%E5%A4%A7%E5%8A%87%E6%A8%82%E9%83%A8
+军师联盟+虎啸龙吟,https://www.youtube.com/watch?v=FfUCTPnvbFs&ab_channel=%E9%BE%8D%E8%8F%AF%E9%9B%BB%E8%A6%96
+ 
+儿少,#genre#
+YOYO TV,https://www.youtube.com/@yoyotvebc/live
+MOMO这一家,https://www.youtube.com/watch?v=nCb85URH8S0&ab_channel=momokids%E8%A6%AA%E5%AD%90%E5%8F%B0
+欢乐谷,https://www.youtube.com/watch?v=R3PZkCUJSbQ&ab_channel=momokids%E8%A6%AA%E5%AD%90%E5%8F%B0
+哈婆婆故事屋,https://www.youtube.com/watch?v=x30OqwgDhkw&ab_channel=momokids%E8%A6%AA%E5%AD%90%E5%8F%B0
+小猪佩奇,https://www.youtube.com/@PeppaPigChineseOfficial/live
+贝乐虎 Babytiger,https://www.youtube.com/@babytiger_zh/live
+碰碰狐Pinkfong,https://www.youtube.com/@Pinkfong_CN/live
+火爆汽车儿歌,https://www.youtube.com/@Supercar_Cartoon/live
+鲨鱼宝宝,https://www.youtube.com/@Pinkfong_TW/live
+Bebefinn 繁体中文,https://www.youtube.com/@Bebefinn_TW/live
+Muse木棉花︱关於我转生变成史莱姆这档事,https://www.youtube.com/watch?v=EgFLg36ZExE&ab_channel=Muse%E6%9C%A8%E6%A3%89%E8%8A%B1-TW
+Muse木棉花︱间谍家家酒S1-S2,https://www.youtube.com/watch?v=R_RPKHUi8Uc&ab_channel=Muse%E6%9C%A8%E6%A3%89%E8%8A%B1-TW
+Muse木棉花︱拥有超常技能的异世界流浪美食家,https://www.youtube.com/watch?v=rEZJYuzXUok&ab_channel=Muse%E6%9C%A8%E6%A3%89%E8%8A%B1-TW
+Muse木棉花︱进击的巨人,https://www.youtube.com/watch?v=BNPP6BJnPAQ&ab_channel=Muse%E6%9C%A8%E6%A3%89%E8%8A%B1-TW
+Muse木棉花︱中华一番,https://www.youtube.com/watch?v=2FJcu6qsM2k&ab_channel=Muse%E6%9C%A8%E6%A3%89%E8%8A%B1-%E9%97%94%E5%AE%B6%E6%AD%A1
+Muse木棉花︱我们这一家,https://www.youtube.com/watch?v=UK81GCw1KE8&ab_channel=Muse%E6%9C%A8%E6%A3%89%E8%8A%B1-%E9%97%94%E5%AE%B6%E6%AD%A1
+朱妮托尼童话故事︱小棉花糖的彩色便便,https://www.youtube.com/watch?v=pgb2vD-d_r4&ab_channel=%E6%9C%B1%E5%A6%AE%E6%89%98%E5%B0%BC-%E5%8A%A8%E7%94%BB%E5%84%BF%E6%AD%8C
+朱妮托尼童话故事︱动物们的便便,https://www.youtube.com/watch?v=u77q3vuZcHo&ab_channel=%E6%9C%B1%E5%A6%AE%E6%89%98%E5%B0%BC-%E5%8A%A8%E7%94%BB%E5%84%BF%E6%AD%8C
+朱妮托尼童话故事︱采色女巫和色彩精灵,https://www.youtube.com/watch?v=JIFe6fV_pLM&ab_channel=%E6%9C%B1%E5%A6%AE%E6%89%98%E5%B0%BC-%E5%8A%A8%E7%94%BB%E5%84%BF%E6%AD%8C
+朱妮托尼童话故事︱放屁家族,https://www.youtube.com/watch?v=keytl9VwcBA&ab_channel=%E6%9C%B1%E5%A6%AE%E6%89%98%E5%B0%BC-%E5%8A%A8%E7%94%BB%E5%84%BF%E6%AD%8C
+火爆汽车儿歌,https://www.youtube.com/@Supercar_Cartoon/live
+小马国大小事,https://www.youtube.com/@MyLittlePonyTaiwaneseOfficial/live
+安全警长啦咘啦哆,https://www.youtube.com/@BabyBusTC/live
+米奇老鼠俱乐部,https://www.youtube.com/watch?v=Dkkp4KfdGPY&ab_channel=DisneyJunior
+亚洲卡通频道,https://www.youtube.com/@cartoonnetworkasia/live
+Happy Holidays,https://www.youtube.com/@cartoonnetwork/live
+汤姆猫,https://www.youtube.com/TalkingTom/live
+G.I. JOE: A Real American Hero,https://www.youtube.com/watch?v=TZ3mxF4U__k&ab_channel=Hasbro
+Kids Songs & Nursery Rhymes,https://www.youtube.com/@msrachel/live
+Power Rangers,https://www.youtube.com/@PowerRangersOfficial/live
+来唱吧！让我们一起跳舞！微笑！,https://www.youtube.com/@momoclo_chanz/live
+Giramille TV,https://www.youtube.com/@Giramille/live
+海绵宝宝,https://www.youtube.com/@SpongeBobOfficial/live
+Ani-One中文官方动画频道,https://www.youtube.com/@AniOneAnime/live
+ 
+国际,#genre#
+CCTV中文国际,https://www.youtube.com/watch?v=9sE12tg3CmA&ab_channel=LIVENOW
+凤凰卫视,https://www.youtube.com/watch?v=Zm4i_rvAcxc&ab_channel=%E9%B3%B3%E5%87%B0%E8%A1%9B%E8%A6%96PhoenixTV
+欧洲新闻,https://www.youtube.com/watch?v=pykpO5kQJ98&ab_channel=euronews
+天空新闻,https://www.youtube.com/watch?v=Wq15eF5vCbI&ab_channel=SkyNews
+德国之声,https://www.youtube.com/watch?v=pqabxBKzZ6M&ab_channel=DWNews
+法兰西 24,https://www.youtube.com/watch?v=tkDUSYHoKxE&ab_channel=FRANCE24English
+ABC新闻,https://www.youtube.com/watch?v=gN0PZCe-kwQ&ab_channel=ABCNews
+彭博电视,https://www.youtube.com/watch?v=iyOq8DhaMYw&ab_channel=BloombergTelevision
+半岛电视台,https://www.youtube.com/watch?v=gCNeDWCI0vo&ab_channel=AlJazeeraEnglish
+ABP新闻,https://www.youtube.com/watch?v=nyd-xznCpJc&ab_channel=ABPNEWS
+Channels TV,https://www.youtube.com/watch?v=ENHYOYm-kUE&ab_channel=ChannelsTelevision
+新加坡 CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ&ab_channel=CNA
+SBT AO VIVO,https://www.youtube.com/watch?v=i5n9gcO28h8&ab_channel=TVSerraDouradaSBT
+广岛HOME电视台,https://www.youtube.com/watch?v=e2pgLUmaxGs&ab_channel=%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91HOME%E5%BA%83%E5%B3%B6%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9
+名古屋电视台,https://www.youtube.com/watch?v=-C6FE2m7kX8&ab_channel=%E3%83%A1%E3%80%9C%E3%83%86%E3%83%AC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9
+NHK WORLD JAPAN,https://www.youtube.com/watch?v=f0lYkdA-Gtw&ab_channel=NHKWORLD-JAPAN
+鹿儿岛新闻,https://www.youtube.com/watch?v=PCccV7cCW8M&ab_channel=%E9%B9%BF%E5%85%90%E5%B3%B6%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9KTS
+全日本新闻网 ANN,https://www.youtube.com/watch?v=coYw-eVU0Ks&ab_channel=ANNnewsCH
+NTV NEWS24,https://www.youtube.com/watch?v=iNPUWKft7hA&ab_channel=ABC%E3%83%86%E3%83%AC%E3%83%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9
+TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8&ab_channel=TBSNEWSDIGPoweredbyJNN
+KBS KOREA,https://www.youtube.com/watch?v=OxQQsIvJTTU&ab_channel=KBSWORLDTV
+韩联社TV,https://www.youtube.com/watch?v=6QZ_qc75ihU&ab_channel=%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV
+阿里郎电视台,https://www.youtube.com/watch?v=CJVBX7KI5nU&ab_channel=ArirangTV
+YTN 24,https://www.youtube.com/watch?v=2C2WCLhDsR4&ab_channel=YTNdmb
+QVCライブ,https://www.youtube.com/watch?v=dPTTMvUm9uA&ab_channel=QVCJapan%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91
+半岛电视台,https://www.youtube.com/watch?v=bNyUyrR0PHo&ab_channel=AlJazeeraArabic%D9%82%D9%86%D8%A7%D8%A9%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9
+CANAL 24 HORAS,https://www.youtube.com/@rtvenoticias/live
+AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q&ab_channel=AstroAWANI
+beIN SPORTS HABER,https://www.youtube.com/watch?v=OypUpUTYAHI&ab_channel=beINSPORTST%C3%BCrkiye
+SportsGrid,https://www.youtube.com/@SportsGridTV/live
+WWE(不定时),https://www.youtube.com/@WWE/live
+ 
+背景音乐,#genre#
+synthwave radio 🌌 - beats to chill/game to,https://www.youtube.com/watch?v=4xDzrJKXOOY&ab_channel=LofiGirl
+lofi hip hop radio 📚 - beats to relax/study to,https://www.youtube.com/watch?v=jfKfPfyJRdk&ab_channel=LofiGirl
+calm piano radio🎹适合学习/放松/睡眠,https://www.youtube.com/watch?v=tfBVp0Zi2iE&ab_channel=AbaoinTokyo
+lofi hip hop radio 💤 - beats to sleep/chill to,https://www.youtube.com/watch?v=rUxyKA_-grg&ab_channel=LofiGirl
+Relaxing Jazz Piano Radio,https://www.youtube.com/watch?v=Dx5qFachd3A&ab_channel=CafeMusicBGMchannel
+Chill Vibes,https://www.youtube.com/watch?v=tyVQk-BAWms&ab_channel=thebootlegboy2
+Coffee Jazz Music,https://www.youtube.com/watch?v=fEvM-OUbaKs&ab_channel=BGMchannel
+停止过度思考💜整夜寒冷,https://www.youtube.com/watch?v=1ZOmYtkS_c8&ab_channel=DreamyLofi
+Relaxing Jazz,https://www.youtube.com/watch?v=ljBAlUOQAGE&ab_channel=BGMchannel
+Relaxing Music Box,https://www.youtube.com/watch?v=mtXASss7EY0&ab_channel=J-POPMusicBGMchannel
+最佳锻炼音乐混合2023年1,https://www.youtube.com/watch?v=fBnpWP4Fneg&ab_channel=GymMusic
+最佳锻炼音乐混合2023年2,https://www.youtube.com/watch?v=NGsvJ4on5e4&ab_channel=GymMusic
+2023年最佳健身音乐组合,https://www.youtube.com/watch?v=gxLTnVS5Aak&ab_channel=GymMusic
+锻炼动机音乐组合2023,https://www.youtube.com/watch?v=Ns_bjpOpZ-Y&ab_channel=GymMusic
+ 
+电台,#genre#
+HitFM南部,http://live.cooltv.top/tv/hitfm_backup.php?id=3
+HitFM北部,http://live.cooltv.top/tv/hitfm_backup.php?id=1
+HitFM中部,http://live.cooltv.top/tv/hitfm_backup.php?id=2
+HitFM花东,http://live.cooltv.top/tv/hitfm_backup.php?id=5
+HitFM宜兰,http://live.cooltv.top/tv/hitfm_backup.php?id=4
+PopRadio台北流行广播,http://live.cooltv.top/tv/popradio_backup.php?id=1
+PopRadio好听广播,http://live.cooltv.top/tv/popradio_backup.php?id=2
+A-Line Radio 网路音乐台,http://live.cooltv.top/tv/appleline.php?id=aline
+CityFM城市广播,http://fm929.cityfm.tw:8080/929.mp3
+KissRadio大众广播,http://live.cooltv.top/tv/kissradio_backup.php
+BestRadio港都983,http://live.cooltv.top/tv/bestradio_backup.php?id=3
+BestRadio好事903,http://live.cooltv.top/tv/bestradio_backup.php?id=2
+BestRadio好事989,http://live.cooltv.top/tv/bestradio_backup.php?id=1
+BestRadio好事935,http://live.cooltv.top/tv/bestradio_backup.php?id=4
+台北爱乐FM99.7,http://live.cooltv.top/tv/e-classical.php?id=onair
+台北爱乐Kids,http://live.cooltv.top/tv/e-classical.php?id=kids
+台北爱乐Jazz,http://live.cooltv.top/tv/e-classical.php?id=jazz
+台北乐UR Classical,http://live.cooltv.top/tv/e-classical.php?id=urclassical
+台北爱乐Oldies but Goodies,http://live.cooltv.top/tv/e-classical.php?id=goodies
+台湾古典音乐台,http://59.120.88.155:8000/live.mp3
+BravoFM台北都会音乐台,https://onair.bravo913.com.tw:9130/live.mp3
+台中古典音乐台,https://onair.family977.com.tw:8977/live.mp3
+光华之声,http://live.cooltv.top/tv/kwongwah.php
+复兴电台,http://live.cooltv.top/tv/fhbs.php
+汉声广播电台FM,http://live.cooltv.top/tv/voh.php?id=1
+汉声广播电台AM,http://live.cooltv.top/tv/voh.php?id=2
+环宇广播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+M-Radio全国广播,http://stream.rcs.revma.com/044q61ha7a0uv
+中广音乐网,http://n07.rcs.revma.com/ks4vsmg3qtzuv
+中广新闻网,http://n12.rcs.revma.com/78fm9wyy2tzuv
+中广流行网,http://n14.rcs.revma.com/aw9uqyxy2tzuv
+AsiaFM亚洲电台,http://stream.rcs.revma.com/xpgtqc74hv8uv
+AsiaFM亚太电台,http://stream.rcs.revma.com/kydend74hv8uv
+FlyRadio飞扬调频,http://stream.rcs.revma.com/e0tdah74hv8uv
+News98新闻台,http://n12.rcs.revma.com/55tyxsy4qtzuv
+飞碟电台,http://n08.rcs.revma.com/em90w4aeewzuv
+全国治安交通台,http://stream.pbs.gov.tw:1935/live/PBS/playlist.m3u8
+警察广播高雄分台,http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
+警察广播台北分台,http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8
+警察广播台中分台,http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
+警察广播台南分台,http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8
+警察广播台东分台,http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
+警察广播新竹分台,http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
+警察广播花莲分台,http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8
+警察广播宜兰分台,http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
+国立教育电台,http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+台中广播电台,http://211.20.119.101:8081
+正声综合,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+正声FM104.1,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+轻松电台,http://stream.rcs.revma.com/k41z6wadu5hvv
+RTI国语,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+飞特电台,https://phate.io/listen.ogg
+ICRT,https://live.leanstream.co/ICRTFM-MP3
+台湾好歌声,https://www.youtube.com/@Musicboxgood22/live
+广东流行大热,https://www.youtube.com/watch?v=9Z11gn-lDSQ&ab_channel=warnermusichk
+幼儿歌曲 粤语,https://www.youtube.com/watch?v=J1B76KUXJ2U&ab_channel=%E5%98%89%E8%8A%99%E5%A7%90%E5%A7%90-%E5%85%92%E6%AD%8C%E7%AB%A5%E8%AC%A0-%E6%95%85%E4%BA%8B%E5%8B%95%E7%95%AB-MissKaFooKidsChannel
+滚石现场︱经典神曲,https://www.youtube.com/watch?v=ZN9lk0OQ33k&ab_channel=%E6%BB%BE%E7%9F%B3%E7%8F%BE%E5%A0%B4ROCKLIVE
+滚石现场︱线上好声音,https://www.youtube.com/watch?v=TJkUcmEyNaQ&ab_channel=%E6%BB%BE%E7%9F%B3%E7%8F%BE%E5%A0%B4ROCKLIVE
+乡亲广播电台,https://www.youtube.com/@CBC919/live
+Eight FM,https://www.youtube.com/watch?v=o1ipHJUfFTM&ab_channel=EightFM
+947 Live,https://www.youtube.com/watch?v=836fayyb4LM&ab_channel=947Joburg
+Kfm 94.5,https://www.youtube.com/watch?v=T3J1tRaNVoE&ab_channel=Kfm94.5
+TBS eFMh,https://www.youtube.com/watch?v=i2pC0RRyGMg&ab_channel=TBSeFM101.3MHz
+8FM,https://www.youtube.com/watch?v=o1ipHJUfFTM&ab_channel=8FM881
+阿里郎电台,https://www.youtube.com/watch?v=P1fX2GGdVS0&ab_channel=ArirangRadioK-Pop
+ALL THE K-POP,https://www.youtube.com/@ALLTHEKPOP/live
+THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8&ab_channel=THEK-POP
+THE K-POP2,https://www.youtube.com/watch?v=jCg2DzrukDo&ab_channel=THEK-POP2
+THE STAGE BIG PLEASURE,https://www.youtube.com/watch?v=kkYJQZwgwXM&ab_channel=THEK-POP2
+网路流行音乐电台,https://www.youtube.com/watch?v=IfNMuFqKBWs&ab_channel=%E8%A6%AA%E8%A6%AA2o%E9%9F%B3%E6%A8%82L%C3%AEv%C3%8B%E3%80%90%E4%B8%AD%E6%96%87%E9%9F%B3%E6%A8%82%E3%80%91
+♫西洋流行音乐电台 English PoP Radio -24hr ♫,https://www.youtube.com/@user-or2gg5sd9y/live
+流行歌曲英文,https://www.youtube.com/watch?v=--XEBsBP1AM&ab_channel=%E5%BE%88%E7%81%AB%E7%9A%84%E8%8B%B1%E6%96%87%E6%AD%8C
+2023流行歌曲,https://www.youtube.com/watch?v=NbE0YLH-9iU&ab_channel=Douyinsong2023
+kozypop radio,https://www.youtube.com/watch?v=w0rhmlE_8-s&ab_channel=KozyPop
+KING AMUSEMENT CREATIVE,https://www.youtube.com/watch?v=4FBW3mkdKOs&ab_channel=%E3%80%8CKINGAMUSEMENTCREATIVE%E3%80%8D%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB
+韩国地下电台,https://www.youtube.com/watch?v=IUT1qAhMY4w&ab_channel=MellowbeatSeeker
+华语经典元宇宙,https://www.youtube.com/watch?v=ZxluW--lZpk&ab_channel=TimelessMusic
+外国歌曲热门🏖️ 流行歌曲免费收听,https://www.youtube.com/watch?v=uYy8Azpjk3A&ab_channel=QueenHouse-%D0%A1%D0%B0%D0%BC%D1%8B%D0%B5%D0%9F%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5%D0%9F%D0%B5%D1%81%D0%BD%D0%B8
+EDM 最佳音乐组合,https://www.youtube.com/watch?v=i1kyii0IYOI&ab_channel=EDMforLife
+Pop Music,https://www.youtube.com/watch?v=pimq2OvTovY&ab_channel=RadioHitsMusic
+Rap Live Radio,https://www.youtube.com/watch?v=05689ErDUdM&ab_channel=UPROXXMusic
+The Good Life Radio,https://www.youtube.com/watch?v=36YnV9STBqc&ab_channel=TheGoodLifeRadioxSensualMusique
+Hits Radio 1,https://www.youtube.com/watch?v=HQtFR3mhzOY&ab_channel=RadioHitsMusic
+Hits Radio 1 Top,https://www.youtube.com/watch?v=uNd5kvrGHjk&ab_channel=RadioHitsMusic
+Pop Rock Radio,https://www.youtube.com/watch?v=XnUNOaxw6bs&ab_channel=BestofMix
+Radio 2000s Mix,https://www.youtube.com/watch?v=py-W_wHQK-w&ab_channel=BestofMix
+Radio 90s Mix,https://www.youtube.com/watch?v=1Ep2eiM5X9U&ab_channel=BestofMix
+Pop Mix Radio,https://www.youtube.com/watch?v=CyfxBf9j2kU&ab_channel=BestofMix
+2023年最佳嘻哈和Trap音乐,https://www.youtube.com/watch?v=ixHqXnwNuUw&ab_channel=GymMusic
+Nightcore Radio,https://www.youtube.com/@Cherriexin/live
+  
+风景,#genre#
+基隆和平岛,https://www.youtube.com/@user-qj4xl3kx9g/live
+台北大稻埕码头,https://www.youtube.com/watch?v=Ndo_8RuefH4&ab_channel=TaipeiTravelLiveCam%E5%8F%B0%E5%8C%97%E8%A7%80%E5%85%89%E5%8D%B3%E6%99%82%E5%BD%B1%E5%83%8F
+台北碧山岩,https://www.youtube.com/watch?v=uvwfYzwY8tg&ab_channel=TaipeiTravelLiveCam%E5%8F%B0%E5%8C%97%E8%A7%80%E5%85%89%E5%8D%B3%E6%99%82%E5%BD%B1%E5%83%8F
+台北象山,https://www.youtube.com/watch?v=z_fY1pj1VBw&ab_channel=TaipeiTravelLiveCam%E5%8F%B0%E5%8C%97%E8%A7%80%E5%85%89%E5%8D%B3%E6%99%82%E5%BD%B1%E5%83%8F
+台北大佳河滨公园,https://www.youtube.com/watch?v=fP4ecxfsJos&ab_channel=TaipeiTravelLiveCam%E5%8F%B0%E5%8C%97%E8%A7%80%E5%85%89%E5%8D%B3%E6%99%82%E5%BD%B1%E5%83%8F
+台北剑潭山,https://www.youtube.com/watch?v=34h_Cy_n0Ok&ab_channel=TaipeiTravelLiveCam%E5%8F%B0%E5%8C%97%E8%A7%80%E5%85%89%E5%8D%B3%E6%99%82%E5%BD%B1%E5%83%8F
+台北碧山,https://www.youtube.com/watch?v=uvwfYzwY8tg&ab_channel=TaipeiTravelLiveCam%E5%8F%B0%E5%8C%97%E8%A7%80%E5%85%89%E5%8D%B3%E6%99%82%E5%BD%B1%E5%83%8F
+台北新店溪,https://www.youtube.com/watch?v=ew4YexmirVY&ab_channel=TaiwanTaipeiJacky
+台北擎天岗草原,https://www.youtube.com/watch?v=MnODaP-1JaE&ab_channel=%E9%99%BD%E6%98%8E%E5%B1%B1%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92
+台北大屯自然公园,https://www.youtube.com/watch?v=6ghffcNt3Nw&ab_channel=%E9%99%BD%E6%98%8E%E5%B1%B1%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92
+新北碧潭吊桥,https://www.youtube.com/@CGNEWS8888/live
+新北淡水渔人码头,https://www.youtube.com/watch?v=xwAWSh35uuw&ab_channel=%E6%96%B0%E5%8C%97%E6%97%85%E5%AE%A2NewTaipeiTour
+新北淡水渡船码头,https://www.youtube.com/watch?v=LemCOTFVcWs&ab_channel=%E7%B4%85%E6%A8%B9%E6%9E%97%E6%9C%89%E7%B7%9A%E9%9B%BB%E8%A6%96
+新北九份,https://www.youtube.com/watch?v=XSD5ptYisw8&ab_channel=%E6%96%B0%E5%8C%97%E6%97%85%E5%AE%A2NewTaipeiTour
+新北烘炉地,https://www.youtube.com/watch?v=xxMRjVwCQ3o&ab_channel=%E6%96%B0%E5%8C%97%E6%97%85%E5%AE%A2NewTaipeiTour
+新北福隆海水浴场,https://www.youtube.com/watch?v=IomOVaMxuKo&ab_channel=necoastnsa
+新北野柳,https://www.youtube.com/@user-bg1ki4yf5s/live
+桃园国际机场,https://www.youtube.com/watch?v=91PfFoqvuUk&ab_channel=%E6%A1%83%E5%9C%92%E6%99%BA%E6%85%A7%E6%97%85%E9%81%8A%E9%9B%B2TaoyuanTravel
+桃园慈湖水岸,https://www.youtube.com/watch?v=pSQ0e-ZTZ5g&ab_channel=%E6%A1%83%E5%9C%92%E6%99%BA%E6%85%A7%E6%97%85%E9%81%8A%E9%9B%B2TaoyuanTravel
+桃园大溪桥,https://www.youtube.com/watch?v=oFJ6gCaBb_Q&ab_channel=%E6%A1%83%E5%9C%92%E6%99%BA%E6%85%A7%E6%97%85%E9%81%8A%E9%9B%B2TaoyuanTravel
+桃园石门水库,https://www.youtube.com/watch?v=GUCaVR88ZFU&ab_channel=%E6%A1%83%E5%9C%92%E6%99%BA%E6%85%A7%E6%97%85%E9%81%8A%E9%9B%B2TaoyuanTravel
+桃园三龟戏水,https://www.youtube.com/watch?v=5YDXZ1aiR5Y&ab_channel=%E6%A1%83%E5%9C%92%E6%99%BA%E6%85%A7%E6%97%85%E9%81%8A%E9%9B%B2TaoyuanTravel
+桃园角板山,https://www.youtube.com/watch?v=3Za9y4z_Lzc&ab_channel=%E6%A1%83%E5%9C%92%E6%99%BA%E6%85%A7%E6%97%85%E9%81%8A%E9%9B%B2TaoyuanTravel
+桃园角板山梅园,https://www.youtube.com/watch?v=-xT1bZhWLuU&ab_channel=%E6%A1%83%E5%9C%92%E6%99%BA%E6%85%A7%E6%97%85%E9%81%8A%E9%9B%B2TaoyuanTravel
+桃园虎头山,https://www.youtube.com/watch?v=tu_gsIkNt-w&ab_channel=%E6%A1%83%E5%9C%92%E6%99%BA%E6%85%A7%E6%97%85%E9%81%8A%E9%9B%B2TaoyuanTravel
+竹苗汶水,https://www.youtube.com/watch?v=Swm_wVKOlIQ&ab_channel=%E9%9B%AA%E9%9C%B8%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92Shei-PaNationalPark
+台中梨山樱缘丘,https://www.youtube.com/watch?v=L0fZTs72jmg&ab_channel=%E4%BA%A4%E9%80%9A%E9%83%A8%E8%A7%80%E5%85%89%E5%B1%80-%E5%8F%83%E5%B1%B1%E9%A2%A8%E7%AE%A1%E8%99%95
+台中梨山揽胜楼,https://www.youtube.com/watch?v=XWlIcYSFfVA&ab_channel=%E4%BA%A4%E9%80%9A%E9%83%A8%E8%A7%80%E5%85%89%E5%B1%80-%E5%8F%83%E5%B1%B1%E9%A2%A8%E7%AE%A1%E8%99%95
+台中高美湿地,https://www.youtube.com/watch?v=fjhg3gAnMFg&ab_channel=%E5%A4%A7%E7%8E%A9%E5%8F%B0%E4%B8%AD-%E8%87%BA%E4%B8%AD%E8%A7%80%E5%85%89%E6%97%85%E9%81%8A%E5%B1%80
+台中望高寮,https://www.youtube.com/watch?v=lhXXhDyjFtI&ab_channel=%E5%A4%A7%E7%8E%A9%E5%8F%B0%E4%B8%AD-%E8%87%BA%E4%B8%AD%E8%A7%80%E5%85%89%E6%97%85%E9%81%8A%E5%B1%80
+南投合欢山武岭亭,https://www.youtube.com/watch?v=2lVMTs_Fj0M&ab_channel=%E5%8F%B0%E7%81%A3%E5%8D%B3%E6%99%82%E5%BD%B1%E5%83%8F%E7%9B%A3%E8%A6%96%E5%99%A8
+南投清境的星空,https://www.youtube.com/@familystar123/live
+南投九蛙伊达邵,https://www.youtube.com/@user-yc9yq9pk3g/live
+彰化溪湖羊葡小镇,https://www.youtube.com/@feng52/live
+彰化八卦山大佛,https://www.youtube.com/@changhua_travels/live
+云嘉阿里山国家森林游乐区,https://www.youtube.com/@alishanchiayi8724/live
+云嘉奋起湖,https://www.youtube.com/watch?v=jXcy8dmGYqg&ab_channel=%E4%BA%A4%E9%80%9A%E9%83%A8%E8%A7%80%E5%85%89%E5%B1%80%E9%98%BF%E9%87%8C%E5%B1%B1%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80%E7%AE%A1%E7%90%86%E8%99%95
+云嘉太平云梯,https://www.youtube.com/watch?v=dY2cRNr5Buw&ab_channel=%E4%BA%A4%E9%80%9A%E9%83%A8%E8%A7%80%E5%85%89%E5%B1%80%E9%98%BF%E9%87%8C%E5%B1%B1%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80%E7%AE%A1%E7%90%86%E8%99%95
+云嘉二延平步道,https://www.youtube.com/watch?v=j2L_559nCjc&ab_channel=%E4%BA%A4%E9%80%9A%E9%83%A8%E8%A7%80%E5%85%89%E5%B1%80%E9%98%BF%E9%87%8C%E5%B1%B1%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80%E7%AE%A1%E7%90%86%E8%99%95
+云嘉里佳资讯站,https://www.youtube.com/watch?v=zDt8FBPozZQ&ab_channel=%E4%BA%A4%E9%80%9A%E9%83%A8%E8%A7%80%E5%85%89%E5%B1%80%E9%98%BF%E9%87%8C%E5%B1%B1%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80%E7%AE%A1%E7%90%86%E8%99%95
+云嘉生力农场,https://www.youtube.com/watch?v=agEzlv9n9Eg&ab_channel=%E4%BA%A4%E9%80%9A%E9%83%A8%E8%A7%80%E5%85%89%E5%B1%80%E9%98%BF%E9%87%8C%E5%B1%B1%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80%E7%AE%A1%E7%90%86%E8%99%95
+云嘉阿里山石棹,https://www.youtube.com/@powerfull168/live
+台南黄金海岸,https://www.youtube.com/watch?v=yeoV-wBdoxQ&ab_channel=%E6%B0%B4%E5%88%A9%E7%BD%B2%E6%B0%B4%E5%88%A9%E9%98%B2%E7%81%BD%E4%B8%AD%E5%BF%83
+台南井仔脚瓦盘盐田,https://www.youtube.com/@user-yu5ng3om9q/live
+台南台江公园,https://www.youtube.com/watch?v=UcTGee9_epA&ab_channel=%E5%8F%B0%E6%B1%9F%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92%E7%AE%A1%E7%90%86%E8%99%95
+高雄旗津海水浴场,https://www.youtube.com/watch?v=ka7FV0sCvxQ&ab_channel=%E9%AB%98%E9%9B%84%E6%97%85%E9%81%8A%E7%B6%B2
+高雄灯塔,https://www.youtube.com/watch?v=HqrPgNErSOA&ab_channel=Ship
+高雄流行音乐中心,https://www.youtube.com/watch?v=wpcjpMJTTyE&ab_channel=%E5%89%B5%E6%96%B0%E8%81%9E
+高雄宝山部落,https://www.youtube.com/watch?v=pdOKpbAoa6U&ab_channel=%E8%8C%82%E6%9E%97%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80
+高雄寿山情人观景台,https://www.youtube.com/watch?v=C03Itx8iSC0&ab_channel=%E9%AB%98%E9%9B%84%E6%97%85%E9%81%8A%E7%B6%B2
+高雄2号码头栈贰库,https://www.youtube.com/watch?v=lp5Op-dqsjY&ab_channel=%E6%A3%A7%E8%B2%B3%E5%BA%ABKW2
+高雄龙头山,https://www.youtube.com/watch?v=k5_18pHN_kU&ab_channel=%E8%8C%82%E6%9E%97%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80
+高雄莲池潭,https://www.youtube.com/watch?v=dCycHSYZBmg&ab_channel=%E9%AB%98%E9%9B%84%E6%97%85%E9%81%8A%E7%B6%B2
+高雄彩虹山大佛,https://www.youtube.com/watch?v=7ky2opL78hg&ab_channel=%E8%8C%82%E6%9E%97%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80
+高雄谛愿寺,https://www.youtube.com/watch?v=9kg8OKHy3so&ab_channel=%E8%8C%82%E6%9E%97%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80
+高雄桃花心木步道,https://www.youtube.com/watch?v=d8EEgn-AFsY&ab_channel=%E8%8C%82%E6%9E%97%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80
+屏东旧排湾,https://www.youtube.com/watch?v=uB4i99l7amU&ab_channel=%E8%8C%82%E6%9E%97%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80
+屏东礼纳里,https://www.youtube.com/watch?v=qCxsJjIpnkc&ab_channel=%E8%8C%82%E6%9E%97%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80
+屏东南湾,https://www.youtube.com/watch?v=Dl1N4LXuDgU&ab_channel=%E6%88%91%E6%84%9B%E5%A2%BE%E4%B8%81%E6%97%85%E9%81%8A%E7%A5%A8%E5%88%B8%E4%B8%AD%E5%BF%83
+屏东龙銮潭,https://www.youtube.com/@thesouth.2022/live
+屏东船帆石沙滩,https://www.youtube.com/watch?v=3Wb_Lgw7Ltc&ab_channel=ktnpworld
+宜兰外澳沙滩远眺龟山岛,https://www.youtube.com/watch?v=uY5La1BfO6s&ab_channel=necoastnsa
+宜兰内埤海滩情人湾,https://www.youtube.com/watch?v=xyJQeYBqngA&ab_channel=%E4%B8%89%E5%B9%B4%E4%BA%8C%E7%8F%AD%E7%B4%94%E7%9C%9F%E8%89%AF%E9%A3%B2
+花东七星潭,https://www.youtube.com/watch?v=tWdI0YfY93Y&ab_channel=%E6%B0%B4%E5%88%A9%E7%BD%B2%E6%B0%B4%E5%88%A9%E9%98%B2%E7%81%BD%E4%B8%AD%E5%BF%83
+花东忘忧亭,https://www.youtube.com/watch?v=Ic6hqus0tjA&ab_channel=%E6%B0%B4%E5%88%A9%E7%BD%B2%E6%B0%B4%E5%88%A9%E9%98%B2%E7%81%BD%E4%B8%AD%E5%BF%83
+花东三仙台,https://www.youtube.com/watch?v=dQ7Sd6PGLdA&ab_channel=%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%B2%B8%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E7%AE%A1%E7%90%86%E8%99%95
+花东多良车站,https://www.youtube.com/watch?v=UCG1aXVO8H8&ab_channel=TaitungAmazing
+花东长虹桥,https://www.youtube.com/watch?v=JnD8Rk3o0BM&ab_channel=%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%B2%B8%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E7%AE%A1%E7%90%86%E8%99%95
+花东加路兰游憩区,https://www.youtube.com/watch?v=AKl3F6cAY2Q&ab_channel=%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%B2%B8%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E7%AE%A1%E7%90%86%E8%99%95
+花东华源曙光观景台,https://www.youtube.com/watch?v=TY4qQElcUrA&ab_channel=TaitungAmazing
+花东杉原湾,https://www.youtube.com/watch?v=VqS_Y8ZCj6M&ab_channel=TaitungAmazing
+花东石梯坪,https://www.youtube.com/watch?v=mXnigLvIL0Q&ab_channel=%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%B2%B8%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E7%AE%A1%E7%90%86%E8%99%95
+花东大石鼻山,https://www.youtube.com/watch?v=JkoXcXI04Qk&ab_channel=%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%B2%B8%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E7%AE%A1%E7%90%86%E8%99%95
+花东富山海域,https://www.youtube.com/watch?v=Rsq95SQ26bY&ab_channel=TaitungAmazing
+花东鲤鱼潭,https://www.youtube.com/watch?v=29H5j3EsV3Q&ab_channel=ervnsa
+花东赤科山,https://www.youtube.com/watch?v=5GTFLN9gZrc&ab_channel=ervnsa
+花东鹿野高台,https://www.youtube.com/watch?v=rvc1klNIgQc&ab_channel=ervnsa
+花东绿岛帆船鼻,https://www.youtube.com/watch?v=pLdBc8PvZko&ab_channel=%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%B2%B8%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E7%AE%A1%E7%90%86%E8%99%95
+金门建功屿,https://www.youtube.com/watch?v=uh_yNAE01w8&ab_channel=%E6%A8%82%E9%81%8A%E9%87%91%E9%96%80
+金门134高地,https://www.youtube.com/watch?v=-srNHTE-Nf0&ab_channel=%E6%A8%82%E9%81%8A%E9%87%91%E9%96%80
+东京都新宿,https://www.youtube.com/watch?v=lA6TaaMGgDo&ab_channel=%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E6%96%B0%E5%AE%BFchannel
+东京都新宿歌舞伎町,https://www.youtube.com/watch?v=DjdUEyjx8GM&ab_channel=%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B%E3%80%8EKabukichoLiveChannel%E3%80%8F
+歌舞伎町,https://www.youtube.com/watch?v=EHkMjfMw7oU&list=PLhEMBf4e2Cl2ph7PUUQ738H4xE2Y6_dCP&index=2&ab_channel=KABUKICHO
+长野皇家酒店,https://www.youtube.com/watch?v=HvJdPF46kak&ab_channel=%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%ABINC%E9%95%B7%E9%87%8E%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91
+淡路岛,https://www.youtube.com/watch?v=lsxYH2XQQCg&list=PLhEMBf4e2Cl2ph7PUUQ738H4xE2Y6_dCP&index=5&ab_channel=%E6%B7%A1%E8%B7%AF%E3%82%B6%E3%83%AB
+河津町,https://www.youtube.com/watch?v=Xn7YQxxC5R0&list=PLhEMBf4e2Cl2ph7PUUQ738H4xE2Y6_dCP&index=7&ab_channel=KawazuLiveCam
+丸沼高原滑雪场1,https://www.youtube.com/watch?v=cqvEOhOzN2o&list=PLhEMBf4e2Cl2ph7PUUQ738H4xE2Y6_dCP&index=13&ab_channel=MARUNUMA
+丸沼高原滑雪场2,https://www.youtube.com/watch?v=DUS5L5w3t3U&list=PLhEMBf4e2Cl2ph7PUUQ738H4xE2Y6_dCP&index=14&ab_channel=MARUNUMA
+武藏御岳神社,https://www.youtube.com/watch?v=1vdmvnXnkQ4&ab_channel=%E9%9D%92%E6%A2%85%E5%B8%82%E8%A6%B3%E5%85%89%E5%8D%94%E4%BC%9A
+山梨县身延町,https://www.youtube.com/watch?v=54NpKx_efis&ab_channel=%E8%BA%AB%E5%BB%B6%E4%B8%83%E9%9D%A2%E5%B1%B1%E3%83%A9%E3%82%A4%E3%83%96%E3%82%AB%E3%83%A1%E3%83%A9
+东京4K全景,https://www.youtube.com/watch?v=8i9ltzhq80s&list=PLhEMBf4e2Cl2ph7PUUQ738H4xE2Y6_dCP&index=42&ab_channel=TokyoSkyline
+函馆山,https://www.youtube.com/watch?v=s--MDmshT3I&ab_channel=%EF%BC%A6%EF%BC%AD%E3%81%84%E3%82%8B%E3%81%8B
+富士山,https://www.youtube.com/watch?v=Sv9hcJ3k5h4&ab_channel=%E3%83%95%E3%82%B8%E3%83%A4%E3%83%9ENAVI
+东京新宿,https://www.youtube.com/watch?v=6bPfX9m7wVU&ab_channel=%E3%83%86%E3%82%A4%E3%82%B1%E3%82%A4%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB
+新宿歌舞伎町,https://www.youtube.com/watch?v=gFRtAAmiFbE&ab_channel=%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B2%E3%80%8EKabukichoLiveChannelII%E3%80%8F
+新宿駅前,https://www.youtube.com/watch?v=jX-R40_mLe4&ab_channel=TBSNEWSDIGPoweredbyJNN
+涩谷路口,https://www.youtube.com/watch?v=Lfl2Nj_QRXU&ab_channel=FNN%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3
+浅草 雷门前,https://www.youtube.com/watch?v=8oxK2mrDxhQ&ab_channel=TBSNEWSDIGPoweredbyJNN
+浅草寺院内(前),https://www.youtube.com/watch?v=nOk4cd0kkp8&ab_channel=%E5%AE%97%E6%95%99%E6%B3%95%E4%BA%BA%E6%B5%85%E8%8D%89%E5%AF%BA%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%28SensojiTemple%29
+浅草寺院内(内),https://www.youtube.com/watch?v=nOk4cd0kkp8&ab_channel=%E5%AE%97%E6%95%99%E6%B3%95%E4%BA%BA%E6%B5%85%E8%8D%89%E5%AF%BA%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%28SensojiTemple%29
+草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs&ab_channel=%E8%8D%89%E6%B4%A5%E6%B8%A9%E6%B3%89WEB%E3%82%AB%E3%83%A1%E3%83%A9
+ 
+自然科学,#genre#
+台湾天气丶雨量丶温度即时观测,https://www.youtube.com/watch?v=uJ0qphngvg0&ab_channel=%E7%A6%BF%E9%B7%B9%E3%80%8ATaiwan%E3%80%8BFormosa
+台湾地震监视,https://www.youtube.com/watch?v=Owke6Quk7T0&ab_channel=%E5%8F%B0%E7%81%A3%E5%9C%B0%E9%9C%87%E7%9B%A3%E8%A6%96
+台湾日本地震监视,https://www.youtube.com/@yoyo_0901/live
+日本地震监视,https://www.youtube.com/watch?v=7FWR3NcNFAc&ab_channel=teeFive
+韩国和日本地震监视,https://www.youtube.com/watch?v=DS21DlNGJEA&ab_channel=%EC%A7%80%EC%A7%84%EA%B4%80%EC%B8%A1%EC%B1%84%EB%84%90JpnKorEarthquake
+NASA TV 官方直播,https://www.youtube.com/watch?v=21X5lGlDOfg&ab_channel=NASA
+太空环境音乐,https://www.youtube.com/watch?v=tNkZsRW7h2c&ab_channel=RelaxationAmbientMusic
+国家地理野生频道(外语),https://www.youtube.com/watch?v=bk8tURXfNIk&ab_channel=WildEarth
+抓捕走私犯|国家地理频道,https://www.youtube.com/watch?v=gsA3-3_Cl8s&ab_channel=NationalGeographic
+内罗毕国家公园,https://www.youtube.com/watch?v=8jmHyQ9C7aE&ab_channel=DreamM%C3%BAsica
+前10名•大猎人,https://www.youtube.com/watch?v=vQP8AwAFzI8&ab_channel=12KScenicRelaxation
+前50名•世界上最美丽的地方,https://www.youtube.com/watch?v=Rse-E5tARaY&ab_channel=12KScenicRelaxation
+珊瑚礁与五颜六色的海洋生物,https://www.youtube.com/watch?v=1cQoYBb0Xow&ab_channel=12KScenicRelaxation
+飞越义大利,https://www.youtube.com/watch?v=VJLaSy0hlVI&ab_channel=4KScenicRelaxation
+飞越天堂,https://www.youtube.com/watch?v=s5HaC2hk_b8&ab_channel=4KScenicRelaxation
+  
+学习资讯,#genre#
+听力练习Level 1|美式英语会话,https://www.youtube.com/watch?v=F8gbJUXaeo0&ab_channel=ABCLearningEnglish
+听力练习Level 2|美式英语会话,https://www.youtube.com/watch?v=vuTY4FDAbpA&ab_channel=ABCLearningEnglish
+听力练习Level 3|美式英语会话,https://www.youtube.com/watch?v=06bk6jovtUU&ab_channel=ABCLearningEnglish
+听力练习Level 4|美式英语会话,https://www.youtube.com/watch?v=OXmnrfj2ERc&ab_channel=ABCLearningEnglish
+日常英语会话练习问答|提高词汇量1,https://www.youtube.com/watch?v=0_A9J3q3SrE&ab_channel=ABCLearningEnglish
+日常英语会话练习问答|提高词汇量2,https://www.youtube.com/watch?v=jsDtKdLupQ8&ab_channel=ABCLearningEnglish
+美式英语听力练习|提高听力,https://www.youtube.com/watch?v=ULB1D1qc71A&ab_channel=ABCLearningEnglish
+
+GOOD系列,#genre#
+GOOD好消息,http://live.streamingfast.net/osmflivech1.m3u8
+GOOD2真理台,http://live.streamingfast.net/osmflivech2.m3u8
+GOOD真情部落格,http://live.streamingfast.net/osmflivech3.m3u8
+GOOD共享观点,http://live.streamingfast.net/osmflivech5.m3u8
+GOOD经典音乐,http://live.streamingfast.net/osmflivech6.m3u8
+GOOD祷告大军,http://live.streamingfast.net/osmflivech7.m3u8
+GOOD幸福学堂,http://live.streamingfast.net/osmflivech8.m3u8
+GOOD爱+好医生,http://live.streamingfast.net/osmflivech9.m3u8
+GOOD烤箱读书会,http://live.streamingfast.net/osmflivech10.m3u8
+GOOD我们EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
+GOOD孙叔唱副歌,http://live.streamingfast.net/osmflivech12.m3u8
+GOOD健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
+GOOD真情部落格,http://live.streamingfast.net/osmflivech14.m3u8
+GOOD真情之夜,http://live.streamingfast.net/osmflivech15.m3u8
+GOOD叶光明,http://live.streamingfast.net/osmflivech16.m3u8
+GOOD大卫鲍森,http://live.streamingfast.net/osmflivech17.m3u8
+GOOD国际讲员,http://live.streamingfast.net/osmflivech18.m3u8
+GOOD共享观点,http://live.streamingfast.net/osmflivech19.m3u8
+GOOD恩典时分,http://live.streamingfast.net/osmflivech20.m3u8
+GOOD华语讲员,http://live.streamingfast.net/osmflivech21.m3u8
+GOOD职场新视野,http://live.streamingfast.net/osmflivech22.m3u8
+GOOD空中主日学生活,http://live.streamingfast.net/osmflivech23.m3u8
+GOOD刘三讲古,http://live.streamingfast.net/osmflivech24.m3u8
+GOOD福气人生,http://live.streamingfast.net/osmflivech25.m3u8
+GOOD空中主日学查经,http://live.streamingfast.net/osmflivech26.m3u8
+GOOD空中圣经学院,http://live.streamingfast.net/osmflivech27.m3u8
+GOOD诗歌精选,http://live.streamingfast.net/osmflivech28.m3u8
+GOOD经典音乐河,http://live.streamingfast.net/osmflivech29.m3u8
+GOOD敬拜赞美音乐,http://live.streamingfast.net/osmflivech30.m3u8
+GOOD福音布道音乐会,http://live.streamingfast.net/osmflivech31.m3u8
+GOOD特会系列：祷告与转化,http://live.streamingfast.net/osmflivech32.m3u8
+GOOD特会系列：研经培灵,http://live.streamingfast.net/osmflivech33.m3u8
+GOOD天国文化特会,http://live.streamingfast.net/osmflivech34.m3u8
+GOOD天父的心,http://live.streamingfast.net/osmflivech35.m3u8
+GOOD特会系列：医治释放,http://live.streamingfast.net/osmflivech36.m3u8
+GOOD特会系列：以色列专题,http://live.streamingfast.net/osmflivech37.m3u8
+GOOD特会系列：末世信息,http://live.streamingfast.net/osmflivech38.m3u8
+GOOD全家归主有良方,http://live.streamingfast.net/osmflivech39.m3u8
+GOOD转转发现爱,http://live.streamingfast.net/osmflivech40.m3u8
+GOOD幸福学堂,http://live.streamingfast.net/osmflivech41.m3u8
+GOOD爱+医生,http://live.streamingfast.net/osmflivech42.m3u8
+GOOD我们EYE旅行,http://live.streamingfast.net/osmflivech43.m3u8
+GOOD烤箱读书会,http://live.streamingfast.net/osmflivech44.m3u8
+GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
+GOOD少年体验队,http://live.streamingfast.net/osmflivech46.m3u8
+GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
+GOOD小小游学生,http://live.streamingfast.net/osmflivech48.m3u8
+
+圈影圈外电影频道,#genre#
+地师传人,https://youtu.be/TNikxFzwYXc?si=KAwbFLRhgE4-YX05
+狄仁杰之通天教主,https://youtu.be/pRDvz9YxQ3w?si=4XuKLDC6JFO4gHQn
+燕赤霞之镇魔龙女,https://youtu.be/jkiUzD8u9T8?si=qvPLKqNj9s59VBNa
+猎灵师,https://youtu.be/XLZByCIRNHM?si=3w4Jiot8SNaBbk2G
+万市大吉,https://youtu.be/vqkYgSaUKi4?si=Ic5pZb0JcKA52a4R
+万市大吉2,https://youtu.be/sl72yIfMMLg?si=OGUvyQ0meb93mxwo
+齐大人，放我一条生路,https://youtu.be/7uE4W6GmIpc?si=8gZgkF9KHsLrAAfu
+魅影特工,https://youtu.be/NNRMk-D77G0?si=oRre_6_1Mb9ydndb
+西游记红孩儿,https://youtu.be/41N29utwvUU?si=o5I2xzOfYPl7C46B
+克塞之战,https://youtu.be/SwoSz0xB710?si=SmQNeo-ql8IZTIVu
+西游记之红孩儿,https://youtu.be/cRB8rPk0nR4?si=-U1fC_vSDfWQk4l7
+御宠娇妃,https://youtu.be/QE6BOEavp7Q?si=3ZLYo_6DyFTM97yy
+御宠娇妃,https://youtu.be/wX-HFyiCXbY?si=dG3K8o_5djV7xFPk
+女主播事件,https://youtu.be/dTnRwDEX03Q?si=LH7E2zCadLEsDcnO
+乾坤斗转凤离巢,https://youtu.be/T8ilxUeaVBo?si=dbvIK7nwcaFZ_uDo
+京武传奇 Fist of Legend 3,https://youtu.be/Bas-HvhHUgQ?si=yU9gNoIl9nop_rAP
+天机之九幽业火,https://youtu.be/-OENDavl9nU?si=JrW85bnHvsxEMcZN
+她是大帅哥,https://youtu.be/HZr0keFpt3o?si=cKtZxu1ofhTRHvrD
+後备空姐,https://youtu.be/G_XK9UtUSU4?si=iyOkUTGJuxst7kq-
+能动手别吵吵,https://youtu.be/0LR6YFVKfsA?si=JfOJZu6sPHJZV1Mb
+潘金莲复仇记,https://youtu.be/XwVl91fbGh0?si=TpBByqr49Dxl2jpL
+画皮师,https://youtu.be/zWxX_mhBBVo?si=A7etkv5rs_v6NUza
+画皮师2,https://youtu.be/Qkynbzri0f0?si=SBNHJs9O-Xbs0Z3y
+奇门诡秘之古井深渊,https://youtu.be/iKqiwmYIKyk?si=kVvDma8caTvpWkc2
+霸总女友是辣妹,https://youtu.be/GHm4MK_MMhg?si=naYcuKfWvkTF7HUM
+奇门诡秘之深渊之门,https://youtu.be/aKrjsVspJQg?si=t0By1H5DY-j9LUrY
+花木兰,https://youtu.be/DeSNdSxfVJ8?si=sx_aDWeSZ9lzqXJc
+奇门诡秘之古井深渊,https://youtu.be/iKqiwmYIKyk?si=7JPoZloO7VKWgk7Y
+超凡校草1贴身校花的秘密,https://youtu.be/PFt1_r8C58A?si=xWnkwbpCN4cHWZ3y
+混世四猴之神猴归来,https://youtu.be/CZlrp8S43gw?si=55Tdsss4oQM35Z1L
+甜宠精灵,https://youtu.be/jj0AC4kEWqA?si=Y8Pg50TWpNhMmAE8
+南拳小子,https://youtu.be/EiKLWCKT1AE?si=6gV-or3MzjgupDJl
+发个微信去天界,https://youtu.be/_tPYK4JVsGg?si=0LE9sLkPwLBx9RCz
+寻龙诡事,https://youtu.be/PQXFi91qVLs?si=VCim57tEX4QKu0e3
+吸血鬼鬼盲盒,https://youtu.be/tqn42pCo2h4?si=xjFO94ERCf4LJmQG
+摸金校尉之长生殿,https://youtu.be/amHv9CXTSP4?si=lv4AtWp2GADDd9_o
+捉妖道长联盟之护国宝藏,https://youtu.be/JfUUkl54Zko?si=PHd06PgTgdlOFNaJ
+大宋伏魔录之兰若寺,https://youtu.be/t5-OtqRcekg?si=LVCiUrRBre1doc9o
+龙门驿站之生死阁,https://youtu.be/EQXi40SNBwE?si=iCYVjYpIVfxg1QWn
+假凤虚凰,https://youtu.be/NoBAOkCBIe4?si=pFcqRZ_bImszd-o4
+封神：画圣归来,https://youtu.be/dFhRsVuGOSU?si=wFe6wgHl52OwQoP3
+特种兵之战狼行动,https://youtu.be/_o8rw13waBY?si=_UmCWXcUMagKXcyX
+龙门驿站之嚎月,https://youtu.be/vbt28jRp0Jw?si=t5d8hYPVrV-wk4UO
+龙门驿站之奇缘,https://youtu.be/k2qqoot-_ww?si=8JjBCq4LFZtgnghf
+龙门驿站之旱天雷,https://youtu.be/Ewqfz7uCGt4?si=ckRYTM8WricwMCWJ
+龙门驿站之狼武士,https://youtu.be/F3bNViQJ4ko?si=BEYluesCCCjzYQ73
+龙门驿站之蝴蝶飞,https://youtu.be/hxsjWLigVwo?si=nW02PfnccDH9vG8r
+龙门驿站之秋娘泪,https://youtu.be/syYiGOLAAuw?si=ToJIX20JBXUNsmYZ
+龙门驿站之太阳花,https://youtu.be/1amb2d0Mw2Y?si=SMwNCjfCa0idFYs9
+痞子大叔,https://youtu.be/IgR1_DGoLLs?si=iWe3h-7RO6GQrKok
+极道校园,https://youtu.be/UFliW6uhQy0?si=gDbyb-28KNOhCxfY
+合约妈妈,https://youtu.be/_zHu8Ug4yJc?si=8kJoraWD4Q7X4JCB
+村里来了个洋媳妇,https://youtu.be/Z9NXTvlxHCY?si=bri36Yc4Us21qDUl
+巨蟒,https://youtu.be/WMKRmCGgF4I?si=5GDyfmG9GzE6HI0l
+青春喂了狗,https://youtu.be/jQ4Sfi9T8Ek?si=3X7eKkwOOQ7bagdx
+记忆迷宫,https://youtu.be/bxd_IXvamsw?si=p1ElWe-M1_1hDUKe
+大明锦衣卫2,https://youtu.be/d_K8S3u_vQc?si=aK5u4iKwqaQ-C3O_
+逃出岛山村,https://youtu.be/FEa6WmJoO_Y?si=kpAIwpr9K814HwiA
+单兵之王,https://youtu.be/n-9XLPi4mHA?si=VB2RVbYpxmSkXig2
+漠戮,https://youtu.be/akqm9o88W7A?si=aqYFTcY14HSxb0QD
+星星都喜欢你,https://youtu.be/bMpbO_fl8V0?si=ARW6RqxBXuuBBIyb
+刺客荣耀：荆轲,https://youtu.be/DmFOccJi66M?si=TfJUpRDx82qEVTaV
+猛龙出击,https://youtu.be/ColF353IJ-8?si=PQSG5LRqXfhmLvzW
+超级战警,https://youtu.be/OC-2P7Mpbp0?si=OpmSk9XyoQXHHLxs
+不良女警,https://youtu.be/r2xKhII2q6s?si=55amVEMC_mnECw7t
+变形者之幽灵杀手,https://youtu.be/UH079JVndkk?si=cdyheeEF6YeuUEr7
+大蛇2,https://youtu.be/-6KbKB7IsP4?si=TCQcqd0LW6QZiGM5
+计中计之金钥奇缘,https://youtu.be/Qz4NKkNKBDg?si=3-5VcYX2TDovVrXs
+密道追踪之魔镜邪灵,https://youtu.be/k3EMrsdeUxk?si=9NsXupt_z_KWt4-Z
+火云邪神之修罗面具,https://youtu.be/RaeqY5LaoAg?si=joNlzd1dwwcfMGWL
+捉奸队,https://youtu.be/Xk2IIrRTP9c?si=02KGGA9Yh2nDHSCu
+巨兽来袭3,https://youtu.be/E0TReDNLBeA?si=7J225UofGV3Gq3vW
+女神学院,https://youtu.be/E2cuaCS2Cog?si=mSHmqOvjGw-kTD_y
+武动乾坤:涅盘神石,https://youtu.be/v2d1buLAOGE?si=B1-A1GvUfN-MkjBN
+武动乾坤2九重符塔,https://youtu.be/ldxqlg81CdQ?si=AHRRzRx6sePXs_J5
+超能赌霸,https://youtu.be/ZIq1p-1PwJg?si=uJya3yu6cM55SgfO
+宝贝有戏之小仙女,https://youtu.be/lC2J7fCV5oc?si=RLfUQ_14QmT_XcFw
+毒王千金,女公子男千金,https://youtu.be/GH3RCdFRZsI?si=THM-lcFeCrgJHYzO
+玉面蛟龙,https://youtu.be/h1vfbnx-5TM?si=HOkdC_oVjSs9khEN
+解剖室灵异事件之男生宿舍,https://youtu.be/-8anPp-jyog?si=Bl5EGfgqIdfseO9e
+翘课英雄2,https://youtu.be/UtkuizRXAwE?si=3XtXTwoEQ4hUgURw
+代驾血迷,https://youtu.be/WW4nUnMgNrA?si=nWa2x7KXxwAnqu5I
+妖梦西游,https://youtu.be/86HH_FOoCJk?si=2_8nUp3uzO18oWmQ
+来自星星的我,https://youtu.be/lG4lkibiP48?si=T6R8C-PmD63o3KFM
+大唐天下之帝王末路,https://youtu.be/NK1SOefwYaA?si=rzDDp56_pBFxP9j_
+大唐天下之揭竿而起,https://youtu.be/_C0q_Lek3jA?si=JRUtl3AesR4uBact
+孤山魅影,https://youtu.be/3V73QM2xWBQ?si=Kgqj_FkJtT5tHS5u
+跨过400亿光年来看你,https://youtu.be/RBN5AZccNeg?si=9R08rGTGD9IhuKot
+人骨邪咒之骨瓷,https://youtu.be/1ewFEu95Pds?si=XpDEe4bXIRNx0O6Z
+九尾狐传,https://youtu.be/yfr-HXHaTc0?si=iZ7LVaqLCtioA12g
+少林寺十八罗汉,https://youtu.be/4y0QYBJcqcU?si=DWvMY5n1owjwx7GH
+小英雄墨萧,https://youtu.be/QJ6D8ZoPmOA?si=t4xWJW_i_DZ3tfzQ
+再见陌生人,https://youtu.be/T17CyD8zUEU?si=w6jJVCFUPfGMKcdT
+海马王子之王子的嫁衣,https://youtu.be/QlmgKwcyiBA?si=jMTXv8o-RTgM5yKF
+校花驾到2蜜桃时代,https://youtu.be/iNj-t2QY19s?si=0pkKuC_9KJXSal5A
+扒光地球人,https://youtu.be/_CI0fBP-Y-M?si=sm5IVHQUcHhZWG74
+火凰之古墓王陵龙头杖,https://youtu.be/_qR6ceT-48A?si=la7UppWhJSNXwfC3
+捉妖师,https://youtu.be/fd9sxhr0eMM?si=M_FxzBOEj2hdyIty
+变异蜈蚣王,https://youtu.be/d-NIRi4clIE?si=At_JkO3K7-go2Yaj
+辛弃疾1162,https://youtu.be/U8wmFptq2-U?si=M3f1uaDaawrgZLXa
+一呼百应,https://youtu.be/5S29-b1CrtA?si=VlYeqZRuef5sjoVj
+千年狐妖之赤狐,https://youtu.be/iHfuqDSYsEA?si=ABWNWPis16zNM4v7
+分散时间的注意,https://youtu.be/YdGC0uuq8mY?si=oSrUeoZ5AsYQDCaa
+京武大侠精武英雄系列4,https://youtu.be/coVjzXcPXfI?si=UOX3y1R6inpgZ57F
+京武火龙精武英雄系列5,https://youtu.be/fmWYVPJ_BZ8?si=6-5f910qk9xc730x
+京武侠影精武英雄系列6,https://youtu.be/c9odPb4EXoo?si=JxqOMt-guDnrk8Dc
+门客之雷被传,https://youtu.be/k9GlwUqFIIc?si=RKTSOxHW0nUBK4DL
+网球少女,https://youtu.be/Y-MpaRUKPeQ?si=1ApCQ5t-poXuqG8A
+疯狂的契约,https://youtu.be/SvV-BLYqJm4?si=qMBIZBCexFYhjqFj
+降龙神掌苏乞儿2,https://youtu.be/u9p-ZeFIPQ4?si=rXhp_v0iJyQv47jD
+一只贾小蝶,https://youtu.be/OSdROWu9ifk?si=jm5gfSu1mrAvwe-O
+如梦晋阳,https://youtu.be/2Kfj9AzBfdE?si=oTdXqujCSA9Z6Jrf
+我是中国人,https://youtu.be/pMwGK7whMe0?si=mfGpdNgbQj9Wy2jk
+欲蟒归来,https://youtu.be/ZptU825pfik?si=gLNwioWzTbGBJoEa
+笔仙魔咒,https://youtu.be/BO-KRxMgQH8?si=-1MabaZoYsQgjeV2
+三日危情,https://youtu.be/fBOf6wlpnaY?si=uLQGEKRs5bPAIzKX
+来自火星的她,https://youtu.be/9GkvPqZ_ZyM?si=_rEPui_mXV59_yuW
+我是潘金莲,https://youtu.be/40lgs6mkxbU?si=jYtonKMKXYN7xLW8
+史前超人,https://youtu.be/JCb7u1cRsII?si=tO47WKsapxzixLwq
+
+乌龙派出所(1996) 【国语+特别版+真人】,#genre#
+乌龙派出所001两津警员现,https://xgct-video.vzcdn.net/18952717-028e-4bbf-9613-7a1cdbb5de17/352x240/video.m3u8
+乌龙派出所002从天而降的新进警员.中川圭一,https://xgct-video.vzcdn.net/d9f413fb-96b4-4b17-b41b-eb7ef9496ef5/352x240/video.m3u8
+乌龙派出所003空中摊贩！生意兴隆,https://xgct-video.vzcdn.net/cbac418e-c38e-42cc-b357-6eeb57489d4d/352x240/video.m3u8
+乌龙派出所004中乐透彩的暴发户,https://xgct-video.vzcdn.net/282aae2f-8373-4a1c-bf8c-5df0401cdd63/352x240/video.m3u8
+乌龙派出所005在刨冰上尽情滑雪,https://xgct-video.vzcdn.net/090d0a47-24b9-4231-87c3-657a33a4455e/352x240/video.m3u8
+乌龙派出所006丽子发飙 疯狂追追追,https://xgct-video.vzcdn.net/8ba3c3e3-6029-4385-bb3b-3866642f3489/352x240/video.m3u8
+乌龙派出所007醒来吧！冬眠警察,https://xgct-video.vzcdn.net/da69b6f6-a443-43f2-a751-c6c2cb370598/352x240/video.m3u8
+乌龙派出所008打开吧！胜哄桥！,https://xgct-video.vzcdn.net/17e5ca53-06de-4b19-ab4a-ecbcd1d7e563/352x240/video.m3u8
+乌龙派出所009加油啊！场外相扑比赛,https://xgct-video.vzcdn.net/2bc492c9-d4a3-4235-8211-c3ed6dfe6b0f/352x240/video.m3u8
+乌龙派出所010脱线暴走大爆走！拚命的交通安全讲习！,https://xgct-video.vzcdn.net/73dfdaeb-ae4a-4dee-bbcd-3b477696465c/352x240/video.m3u8
+乌龙派出所011拜访中川的家,https://xgct-video.vzcdn.net/838f5f51-ef17-4afd-bacc-f5e288555f61/352x240/video.m3u8
+乌龙派出所012江户人的激烈战役,https://xgct-video.vzcdn.net/1a38ebe4-cd7a-4e8b-b6b2-71b8a71bd70e/352x240/video.m3u8
+乌龙派出所013阿两和丽子形影不离！？,https://xgct-video.vzcdn.net/fe71f3f4-f362-4355-ba32-8e482e873420/352x240/video.m3u8
+乌龙派出所014迷路小象的假日,https://xgct-video.vzcdn.net/0b655773-6b4b-4029-97cc-97c06111b4a2/352x240/video.m3u8
+乌龙派出所015本田为爱奔走,https://xgct-video.vzcdn.net/418cd350-d8d4-4bb3-bde8-65b48e7c2593/352x240/video.m3u8
+乌龙派出所016长家的神秘宝物,https://xgct-video.vzcdn.net/dcc0e139-e47f-4c7c-abef-c665cec74933/352x240/video.m3u8
+乌龙派出所017蟑螂大竞赛,https://xgct-video.vzcdn.net/e8ccef59-b003-43c3-803d-c9c2bf1f9f96/352x240/video.m3u8
+乌龙派出所018重现京都之旅,https://xgct-video.vzcdn.net/04f9a454-fc58-41a1-8950-b4f260399b7c/352x240/video.m3u8
+乌龙派出所019荞麦面屋的重振计画！,https://xgct-video.vzcdn.net/04f9a454-fc58-41a1-8950-b4f260399b7c/352x240/video.m3u8
+乌龙派出所020两津式的考试必胜法,https://xgct-video.vzcdn.net/e6acfaaf-fdde-4187-9edf-a22de2867509/352x240/video.m3u8
+乌龙派出所021年终奖金争夺战1,https://xgct-video.vzcdn.net/a40a6f5c-7124-4ea2-aa4c-d68ffa936d35/352x240/video.m3u8
+乌龙派出所022两津最受欢迎宣言,https://xgct-video.vzcdn.net/c4f3bf7c-eb6a-4dbf-a43b-7d20dd18576d/352x240/video.m3u8
+乌龙派出所023新春的战斗纸牌,https://xgct-video.vzcdn.net/9d58141a-e038-4d50-9f0b-3e3c454caf71/352x240/video.m3u8
+乌龙派出所024日本最没责任感的父子,https://xgct-video.vzcdn.net/23f0eda0-800b-4210-b20e-e0f37664d66b/352x240/video.m3u8
+乌龙派出所025在家关禁闭缠不可怕,https://xgct-video.vzcdn.net/933230eb-f8fe-4b57-b3c5-8bd047fbed0e/352x240/video.m3u8
+乌龙派出所026赚收视率,https://xgct-video.vzcdn.net/7cea3369-e4d4-4e6b-a57f-c694aa2189d9/352x240/video.m3u8
+乌龙派出所027超级有钱人！白鸟丽次,https://xgct-video.vzcdn.net/0ea67d5a-69da-4e9c-a98d-c58519ea61f0/352x240/video.m3u8
+乌龙派出所028阿两大逃亡,https://xgct-video.vzcdn.net/045efbef-6a0b-4943-b934-8b8d5ce14e98/352x240/video.m3u8
+乌龙派出所029男人之间的沟通桥粱，桧木澡堂,https://xgct-video.vzcdn.net/53748f53-f82b-4062-804c-b995ecc6e140/352x240/video.m3u8
+乌龙派出所030三月三日娃娃节,https://xgct-video.vzcdn.net/28b79a8a-c928-4f8e-87c8-b93264c09800/352x240/video.m3u8
+乌龙派出所031忍者vs印地安两津,https://xgct-video.vzcdn.net/6a39e2f0-a712-46c0-afaf-1c661efedd1a/352x240/video.m3u8
+乌龙派出所032阿两现在修行中,https://xgct-video.vzcdn.net/17e3391e-ce58-40ef-bf97-a4a72758a3ab/352x240/video.m3u8
+乌龙派出所033啊～好想有自己的房子羽生先生初登场,https://xgct-video.vzcdn.net/31810056-d803-4b15-af0b-91bcb7ce9b7f/352x240/video.m3u8
+乌龙派出所034高科技小学生vs两津 电极正初登场,https://xgct-video.vzcdn.net/2257dee1-344c-4322-87ff-b7b8401bec2a/352x240/video.m3u8
+乌龙派出所035热泪盈眶的所长,https://xgct-video.vzcdn.net/7b3a42c5-d76e-4e1c-9a71-3ac4aa3f387f/352x240/video.m3u8
+乌龙派出所036夺回秘密照片,https://xgct-video.vzcdn.net/cdcf917f-17b8-45b6-83a8-aaf87af25ec9/352x240/video.m3u8
+乌龙派出所037不要命的吃到饱,https://xgct-video.vzcdn.net/ef44b063-0acf-4332-82fe-356ee3bc6942/842x480/video.m3u8
+乌龙派出所038白鸟丽次再度登场,https://xgct-video.vzcdn.net/e3d44770-2da5-45dd-8a6f-587c27656227/352x240/video.m3u8
+乌龙派出所039热恋中的两津和麻里爱,https://xgct-video.vzcdn.net/0e26096d-f617-46e0-a7bb-4d00f2bd182c/842x480/video.m3u8
+乌龙派出所040爆笑的翻堕罗拳法,https://xgct-video.vzcdn.net/c61699a8-af91-4896-81d3-e3918e29de5b/352x240/video.m3u8
+乌龙派出所041初恋情人是两津！？,https://xgct-video.vzcdn.net/0a132e38-5b9a-4332-ac5c-259ec1b8d1b4/352x240/video.m3u8
+乌龙派出所042鳄鱼的演艺生涯心酸史. 阿两的宠物篇 1,https://xgct-video.vzcdn.net/b3e59268-bd09-460b-b6f0-b367d9fd5702/352x240/video.m3u8
+乌龙派出所043呼风唤雨的棒球赛,https://xgct-video.vzcdn.net/9f06c45e-1c6c-4218-970a-cf3500aa5666/352x240/video.m3u8
+乌龙派出所044两津勘吉的闪电结婚,https://xgct-video.vzcdn.net/fd8686e1-a0da-473f-a614-f827c13f7cef/352x240/video.m3u8
+乌龙派出所045阿两的实习生训练记,https://xgct-video.vzcdn.net/09dfc5d5-e54b-4077-a0db-a29f05680080/352x240/video.m3u8
+乌龙派出所046阿两的人形娃娃热卖中,https://xgct-video.vzcdn.net/9ce18f3a-a17e-4a70-9b47-def7d54ff4e9/352x240/video.m3u8
+乌龙派出所047紧张刺激！急流中的游船,https://xgct-video.vzcdn.net/d87d6dae-0f4f-4020-9201-9b043f9c0d94/352x240/video.m3u8
+乌龙派出所048阿两男扮女装大作战,https://xgct-video.vzcdn.net/1a5272e0-ad38-428a-a9b8-f80e5bbb98b0/352x240/video.m3u8
+乌龙派出所049到加拿大练翻堕罗拳,https://xgct-video.vzcdn.net/847b4403-d060-41db-ae97-692895607e02/352x240/video.m3u8
+乌龙派出所050美味的复仇食谱,https://xgct-video.vzcdn.net/cc103b3b-43b1-4dcb-bad8-84c89d0ef07c/352x240/video.m3u8
+乌龙派出所051利用幽灵赚大钱,https://xgct-video.vzcdn.net/6a70768d-5ea5-4dc0-ac82-1fed5b3aa8e9/352x240/video.m3u8
+乌龙派出所052激动的超级辣妈,https://xgct-video.vzcdn.net/622c7228-76e6-402a-9d11-62880f8244d2/352x240/video.m3u8
+乌龙派出所053浅草初恋物语,https://xgct-video.vzcdn.net/e3c52c48-7fe8-4e0e-a051-4eab4b61a363/352x240/video.m3u8
+乌龙派出所054超激烈的游戏玩家－左近寺,https://xgct-video.vzcdn.net/a49058fa-b6f0-4fae-9b74-f9c0db060fdf/352x240/video.m3u8
+乌龙派出所055造成大混乱的下流照片,https://xgct-video.vzcdn.net/f671311e-096a-4468-bddf-e0f7270c1c86/352x240/video.m3u8
+乌龙派出所056神勇的爷爷,https://xgct-video.vzcdn.net/b080c999-547e-4cbe-a5c7-3b15a80fac90/352x240/video.m3u8
+乌龙派出所057欢迎来住微笑宿舍！,https://play.modujx.com/20230817/C0vgpl9R/index.m3u8
+乌龙派出所058所长的私生子疑案,https://xgct-video.vzcdn.net/87fb66a2-2883-4023-9373-244895e4ca48/352x240/video.m3u8
+乌龙派出所059出动松茸守卫队,https://xgct-video.vzcdn.net/3a5397c5-8683-44e5-ab17-038d26c18552/352x240/video.m3u8
+乌龙派出所060翻堕罗拳，千钧一发！,https://xgct-video.vzcdn.net/b538c2cd-aabe-4acf-9597-5e469c467c64/352x240/video.m3u8
+乌龙派出所061再见了，大原所长！？,https://xgct-video.vzcdn.net/3c1a8637-d54d-4b99-90dd-a6750fa21196/352x240/video.m3u8
+乌龙派出所062向前冲吧！失恋的机车骑士,https://xgct-video.vzcdn.net/806dbf27-14e4-4f76-a072-cf66634034c1/352x240/video.m3u8
+乌龙派出所063警署内的报纸大战,https://xgct-video.vzcdn.net/20ae85a4-fd29-45be-92ae-5c0ca0c8e8b7/352x240/video.m3u8
+乌龙派出所064年终奖金争夺战 2,https://xgct-video.vzcdn.net/67678781-05c9-4014-8077-8d2cf9d6fa63/352x240/video.m3u8
+乌龙派出所065出差症候群,https://xgct-video.vzcdn.net/b676f03a-a824-44e5-b208-b8cda376b3de/352x240/video.m3u8
+乌龙派出所066追踪！名犬两津,https://xgct-video.vzcdn.net/18ed1f41-3320-461f-afe3-22861bed4cf9/352x240/video.m3u8
+乌龙派出所067惊人的无厘头新年聚会,https://xgct-video.vzcdn.net/2cf0a554-9ff7-4200-8f2c-f9909360065e/352x240/video.m3u8
+乌龙派出所068对决！钓马子,https://xgct-video.vzcdn.net/f8ef7ab3-e4c4-41fc-8bab-eea64274649b/352x240/video.m3u8
+乌龙派出所069老爷爷和炸弹绑匪,https://xgct-video.vzcdn.net/795e8b18-0df0-4321-b64a-b6c057e9bc22/352x240/video.m3u8
+乌龙派出所070本田的最後一个恋情,https://xgct-video.vzcdn.net/9567b4de-b15d-4c86-aa77-8bd52a97d93b/352x240/video.m3u8
+乌龙派出所071会令人上瘾的美少女人形,https://xgct-video.vzcdn.net/d343d6b5-3352-41e1-8981-2ddfb8e5b009/352x240/video.m3u8
+乌龙派出所072燃烧吧！对露营的热情,https://xgct-video.vzcdn.net/4e8a0224-7a96-4959-96a1-067a18525e74/352x240/video.m3u8
+乌龙派出所073乌龙教授登场,https://xgct-video.vzcdn.net/73a474c6-1064-410b-aebe-a28125135f18/352x240/video.m3u8
+乌龙派出所074绝对放心！两津观光,https://xgct-video.vzcdn.net/4de3d4e2-81e4-49e5-ba4a-097cbcaf1564/352x240/video.m3u8
+乌龙派出所075妖怪烟囱消失的日子,https://xgct-video.vzcdn.net/c7b1b077-1b70-4247-967d-a3ea07f801e6/352x240/video.m3u8
+乌龙派出所076恐怖的置物柜,https://xgct-video.vzcdn.net/cf7d3704-fea9-400f-a600-414be6a72575/352x240/video.m3u8
+乌龙派出所077欲望之真人抓娃娃机,https://xgct-video.vzcdn.net/011145c8-dd00-43df-bb8a-47d7e6d7549b/352x240/video.m3u8
+乌龙派出所078激烈的社长—中川的父亲,https://xgct-video.vzcdn.net/6daa6e11-9de5-4293-84f8-417788364bf6/352x240/video.m3u8
+乌龙派出所079超乌龙的新发明,https://xgct-video.vzcdn.net/348a10c0-3d2e-46bf-b247-9bb2fc6e7bb0/352x240/video.m3u8
+乌龙派出所080为种花而奋战的阿两,https://xgct-video.vzcdn.net/5bdede64-08b2-4239-a89b-ff3d387d2150/352x240/video.m3u8
+乌龙派出所081波尔波的同居时代！,https://xgct-video.vzcdn.net/e6a1ce54-ee15-4a99-a215-f79ac641eb35/352x240/video.m3u8
+乌龙派出所082警车上司！乌龙警车记！,https://xgct-video.vzcdn.net/97d17d9f-8f4f-4390-89ef-465689fc158c/352x240/video.m3u8
+乌龙派出所083停不下来的摊贩列车,https://xgct-video.vzcdn.net/ff3967d9-2228-4a84-96ed-89d537244a47/352x240/video.m3u8
+乌龙派出所084华丽的变身！月光刑警,https://xgct-video.vzcdn.net/beb5de7f-0751-4c46-8159-c9186a645992/352x240/video.m3u8
+乌龙派出所085未爆弹送货到府,https://xgct-video.vzcdn.net/b78c66b4-283b-4bfb-a042-a5cbaa5af3ec/352x240/video.m3u8
+乌龙派出所086两津死了！什麽？,https://xgct-video.vzcdn.net/6d259a52-06f7-4d4c-ab1d-aed53c12bd9b/352x240/video.m3u8
+乌龙派出所087贴紧！危险的两人,https://xgct-video.vzcdn.net/fb2001b0-05e9-493c-89b3-21de1dc2fb74/352x240/video.m3u8
+乌龙派出所088击沉！忍者老爷爷,https://xgct-video.vzcdn.net/41cdf3f5-9c28-4f55-b984-3e73b4ef0b6c/352x240/video.m3u8
+乌龙派出所089恐怖的交通安全指导教官,https://xgct-video.vzcdn.net/d0c79502-0f76-4390-9bb0-9440d90b9f60/352x240/video.m3u8
+乌龙派出所090鸽子咕咕刑警诞生！,https://xgct-video.vzcdn.net/593e7bfe-6bb7-4177-a006-ac1939c842c2/352x240/video.m3u8
+乌龙派出所091恐怖！我的长发怪朋友,https://xgct-video.vzcdn.net/645e8993-81c0-45a3-b657-c6090e307d91/352x240/video.m3u8
+乌龙派出所092大家来打棒球,https://xgct-video.vzcdn.net/bb99b86a-d7a4-4cad-a6aa-5fa0e434dc00/352x240/video.m3u8
+乌龙派出所093这位就是我喜欢的人,https://xgct-video.vzcdn.net/6d21e7ca-c9f9-4591-afb6-4e7075a35e0a/352x240/video.m3u8
+乌龙派出所094从外太空掉下来的礼物,https://xgct-video.vzcdn.net/4c9b4b8d-b484-4194-9300-f98e0d136dc1/352x240/video.m3u8
+乌龙派出所095令人称羡的两人合照,https://xgct-video.vzcdn.net/6c96f861-e428-49ee-aeaa-da3a334ee246/352x240/video.m3u8
+乌龙派出所096被诅咒的梅子壶,https://xgct-video.vzcdn.net/f3dc0675-6a71-4550-b25a-85c67d3b9f5e/352x240/video.m3u8
+乌龙派出所097中川是下町人吗？,https://xgct-video.vzcdn.net/f56feae3-ba03-4dad-ad16-909605d2d7e7/352x240/video.m3u8
+乌龙派出所098 没有牙齿就不能说的故事 阿两要去月球了,https://xgct-video.vzcdn.net/ada78e6c-e70f-4ecd-bf62-0ba2e5e8af3a/352x240/video.m3u8
+乌龙派出所099我才是主角星逃田,https://xgct-video.vzcdn.net/beacf77c-de17-41f1-8844-6ef2b5eb18e4/352x240/video.m3u8
+乌龙派出所100爱的贴身保镳,https://xgct-video.vzcdn.net/079469d2-6281-4025-bff0-4399fff1034e/352x240/video.m3u8
+乌龙派出所101穷途末路的最边陲署,https://xgct-video.vzcdn.net/f161c568-b114-42d9-b8d9-7e8a6c4f7e63/352x240/video.m3u8
+乌龙派出所102浅草的电影院乐园,https://xgct-video.vzcdn.net/25f7fb07-f6e9-4703-9852-bca63dbe6672/352x240/video.m3u8
+乌龙派出所103乌龟的报恩,https://xgct-video.vzcdn.net/9dbc2639-f677-4b30-971e-238f1e27ffe6/352x240/video.m3u8
+乌龙派出所104变身！所长的新车,https://xgct-video.vzcdn.net/806563ab-f236-48d7-bf0b-b4332792b40b/352x240/video.m3u8
+乌龙派出所105奖金争夺战3,https://xgct-video.vzcdn.net/d826e543-9821-4851-a81c-52d293e9032c/842x480/video.m3u8
+乌龙派出所106翻堕罗替身拳,https://xgct-video.vzcdn.net/642aca16-6781-41ab-9c33-bb9f9c9bf0cc/842x480/video.m3u8
+乌龙派出所107阿两变小了,https://xgct-video.vzcdn.net/b76a1918-d858-4484-bda1-4d96e2475919/842x480/video.m3u8
+乌龙派出所108浅草物语,https://xgct-video.vzcdn.net/cd83392e-4220-4a81-9adf-dfc70ab5fa6e/842x480/video.m3u8
+乌龙派出所109哥哥的身份,https://xgct-video.vzcdn.net/543185dd-7cd4-4463-b472-1e548d4a2189/842x480/video.m3u8
+乌龙派出所110亲戚的身份,https://xgct-video.vzcdn.net/842f451d-d4ee-4ffa-87f5-0dcb54f77057/842x480/video.m3u8
+乌龙派出所111环游世界48小时,https://xgct-video.vzcdn.net/809ae8c9-359e-492e-bbe4-fc054959d04a/842x480/video.m3u8
+乌龙派出所112麻里爱爱的铁拳,https://xgct-video.vzcdn.net/b1acd26e-c82d-462e-9adf-60141c2b5520/842x480/video.m3u8
+乌龙派出所113逆袭 报应老头,https://xgct-video.vzcdn.net/91959991-8531-43da-8621-2780dfc799fa/842x480/video.m3u8
+乌龙派出所114冲啊丽子大追踪,https://xgct-video.vzcdn.net/ba83048d-2a86-4c98-9b4d-c46bb6b662d5/842x480/video.m3u8
+乌龙派出所115人世间严禁火烛,https://xgct-video.vzcdn.net/a83638a2-cbdd-4ed1-810e-5579ad2c90a5/842x480/video.m3u8
+乌龙派出所116秘药两津 GPX,https://xgct-video.vzcdn.net/a751cbca-eb62-413d-b0d0-13f42382930b/842x480/video.m3u8
+乌龙派出所117本田家族,https://xgct-video.vzcdn.net/d80af75b-fe43-4303-9a42-aa94246c807a/842x480/video.m3u8
+乌龙派出所118在乎 也算是恋爱,https://xgct-video.vzcdn.net/c9ae18ed-63c6-4ef1-93c0-fb9a04032c49/842x480/video.m3u8
+乌龙派出所119多采多姿的生活方式 祸从脸,https://xgct-video.vzcdn.net/561bd448-4593-42ff-a819-ac4f2278b1ad/842x480/video.m3u8
+乌龙派出所120菜鸟刑事两津,https://xgct-video.vzcdn.net/2fa434a9-b06e-4cdf-8a37-57142ca4e2a1/842x480/video.m3u8
+乌龙派出所121不要叫我爸爸,https://xgct-video.vzcdn.net/1e1f9abb-f9ed-4772-9458-d70c13794eb9/842x480/video.m3u8
+乌龙派出所122左近寺，全新的出发,https://xgct-video.vzcdn.net/420399d3-f6f2-4ef5-8190-36d317345c01/842x480/video.m3u8
+乌龙派出所123遥远的放学後,https://xgct-video.vzcdn.net/14d55736-ba24-453e-99e5-182f91b5f8ad/842x480/video.m3u8
+乌龙派出所124奥运还没开幕呢,https://xgct-video.vzcdn.net/411f9a69-f8d3-4bb9-b47a-ebf22499253c/842x480/video.m3u8
+乌龙派出所125恋爱的冲选岛,https://xgct-video.vzcdn.net/98889c8d-299f-4e44-b10a-01fe6a5d6710/842x480/video.m3u8
+乌龙派出所126飞吧 航空警察队,https://xgct-video.vzcdn.net/03823cbe-5cd2-4630-a008-f1407d58b7cb/842x480/video.m3u8
+乌龙派出所127感动 寺井的初体验,https://xgct-video.vzcdn.net/1b3b1883-6ce2-4b57-810f-728b9474ec42/842x480/video.m3u8
+乌龙派出所128阿两成为漫画家,https://xgct-video.vzcdn.net/a1d1bf7b-1f5b-471e-ae46-e98be6e16035/480x842/video.m3u8
+乌龙派出所129激烈的踢罐子战争,https://xgct-video.vzcdn.net/aaeb2d29-d155-4856-964f-87c76a82ed5b/842x480/video.m3u8
+乌龙派出所130诺斯特拉 两津的大预言,https://xgct-video.vzcdn.net/9b7a469d-bb43-45e3-bb3f-81afa1b9aebe/842x480/video.m3u8
+乌龙派出所131家庭录影带之王,https://xgct-video.vzcdn.net/91e53df3-7bae-4539-855f-7dd9646f9f20/842x480/video.m3u8
+乌龙派出所132龟有的宁静之夜,https://xgct-video.vzcdn.net/35bb1bff-6014-4034-ac38-4bbe4adb29d5/842x480/video.m3u8
+乌龙派出所133决战！大破高尔夫球场,https://xgct-video.vzcdn.net/fba75186-5b7f-4212-af4f-d2c8b1079f62/842x480/video.m3u8
+乌龙派出所134查理小林的秘密,https://xgct-video.vzcdn.net/2ac1c49c-6535-4c3a-870b-3958ae70ccbd/842x480/video.m3u8
+乌龙派出所135荒唐深海SOS,https://xgct-video.vzcdn.net/fcba6eac-347e-470a-8dba-ef5e95384147/842x480/video.m3u8
+乌龙派出所136工作吧！松吉,https://xgct-video.vzcdn.net/e2b00636-6b0a-4521-ab47-cca222b44d14/842x480/video.m3u8
+乌龙派出所137在夜空中绽放的礼物,https://xgct-video.vzcdn.net/9e45193b-9326-43eb-80e0-9e1824c99ada/842x480/video.m3u8
+乌龙派出所138两津体力有限公司,https://xgct-video.vzcdn.net/2aa8e247-a151-4416-9fee-46888463a5f9/842x480/video.m3u8
+乌龙派出所139爱笑的惠比寿,https://xgct-video.vzcdn.net/deb7e4bb-faed-4288-98b5-8fb016108b38/842x480/video.m3u8
+乌龙派出所140扑克牌大战,https://xgct-video.vzcdn.net/a62a9fc2-6d34-47ad-a7f4-3fe22d2e3faa/842x480/video.m3u8
+乌龙派出所141机械警察动,https://xgct-video.vzcdn.net/fc62e68c-7e19-4c6f-a77b-78c0e44a1c91/842x480/video.m3u8
+乌龙派出所142史特拉第大追踪,https://xgct-video.vzcdn.net/29d86030-0dd8-4da6-bfd9-122f2383caec/842x480/video.m3u8
+乌龙派出所143宇宙人的逆袭,https://xgct-video.vzcdn.net/4f2aa67a-d7ca-4083-8ebc-f6d8dabe2807/842x480/video.m3u8
+乌龙派出所144奖金争夺战4,https://xgct-video.vzcdn.net/403c5402-1722-4b47-a6e4-607134748ebf/842x480/video.m3u8
+乌龙派出所145时间啊！停止吧！极乐啊！你在那啊！,https://xgct-video.vzcdn.net/493f4638-8d1a-46b3-9998-0ad5c81d9759/842x480/video.m3u8
+乌龙派出所146遥远的寺井家,https://xgct-video.vzcdn.net/8ce25a27-b549-41a8-95d3-069421e7dfd2/842x480/video.m3u8
+乌龙派出所147靠钙质熬过去吧,https://xgct-video.vzcdn.net/d77563e3-f829-4e10-a640-9d6c0e259f19/842x480/video.m3u8
+乌龙派出所148肉体魔术师,https://xgct-video.vzcdn.net/d9254e77-94d8-4f3f-bf42-50ed3e3c3cf7/842x480/video.m3u8
+乌龙派出所149小町成为明星,https://xgct-video.vzcdn.net/2a3319d6-339e-49a3-8feb-e316486aead0/842x480/video.m3u8
+乌龙派出所150为明星打工,https://xgct-video.vzcdn.net/3cc87e89-65f9-4907-a30e-e0d41199ea59/842x480/video.m3u8
+乌龙派出所151米和饭团的旅行,https://xgct-video.vzcdn.net/1e9a733d-714c-4d8c-8d61-aaf64da7970d/842x480/video.m3u8
+乌龙派出所152地狱的寄宿生活,https://xgct-video.vzcdn.net/a47aaa0b-32d8-44dc-99b6-a793e05a2b04/842x480/video.m3u8
+乌龙派出所153大哥大恐慌,https://xgct-video.vzcdn.net/856ed04a-f75d-4b18-8302-508c69ac03bd/842x480/video.m3u8
+乌龙派出所154温泉旅行,https://xgct-video.vzcdn.net/212e3854-e67f-4126-9c6e-7961ad3ccd70/842x480/video.m3u8
+乌龙派出所155不忍池的回忆,https://xgct-video.vzcdn.net/076e0146-463f-4fcb-9e93-223c33184a4a/842x480/video.m3u8
+乌龙派出所156决战大自然高尔夫,https://xgct-video.vzcdn.net/cabda0e7-b651-4e33-a9cf-f6d86b77647a/842x480/video.m3u8
+乌龙派出所157中川的平民生活苦斗记,https://xgct-video.vzcdn.net/41056ece-4aee-4bf9-b5cc-c5d1ce11f41d/842x480/video.m3u8
+乌龙派出所158重新创造一次人生 声音模仿家,https://xgct-video.vzcdn.net/25e25c45-cba0-4cd5-9d7e-1cd53cd5b072/842x480/video.m3u8
+乌龙派出所159人生中最倒楣的一天,https://xgct-video.vzcdn.net/611fcac5-d7d0-427c-800a-b7e81c086775/842x480/video.m3u8
+乌龙派出所160飞越海洋的爱情,https://xgct-video.vzcdn.net/fe607731-b208-48ed-8ee4-20e0dbb7e303/842x480/video.m3u8
+乌龙派出所161在卡通世界赚大钱,https://xgct-video.vzcdn.net/3f308f62-ecaa-4312-83e0-3f7e92cda924/842x480/video.m3u8
+乌龙派出所162友情的翅膀,https://xgct-video.vzcdn.net/5b2e3067-907d-4049-b9aa-01ce2b98d49e/842x480/video.m3u8
+乌龙派出所163高科技社长一家人,https://xgct-video.vzcdn.net/6fefc8f6-1aa0-44df-a3ea-6adee174ed8f/842x480/video.m3u8
+乌龙派出所164忍辱负重的工作,https://xgct-video.vzcdn.net/c18623ca-34bb-451f-a302-14d5bfe8e8b8/842x480/video.m3u8
+乌龙派出所165出现了!少女漫画刑事!,https://xgct-video.vzcdn.net/84fc4f01-afc1-45d8-987e-3a642390fe30/842x480/video.m3u8
+乌龙派出所166灾难的发生总是在大意时,https://xgct-video.vzcdn.net/2b903c8d-dcb8-4567-a027-def46d2b19f6/842x480/video.m3u8
+乌龙派出所167终极战警两津,https://xgct-video.vzcdn.net/57b22e91-1d54-4eeb-8c0a-603bcf05d344/842x480/video.m3u8
+乌龙派出所168两津的身体检查,https://xgct-video.vzcdn.net/4ec166e9-adca-4cb7-a60c-91d058647c7a/842x480/video.m3u8
+乌龙派出所169光辉的球场,https://xgct-video.vzcdn.net/d320e277-6a40-4597-b7fa-9fc6b865d79d/842x480/video.m3u8
+乌龙派出所170小地方的日记,https://xgct-video.vzcdn.net/53f6e283-525b-4969-92fb-d3f1fef17589/842x480/video.m3u8
+乌龙派出所171剑道一直线,https://xgct-video.vzcdn.net/6c138a55-49ec-42ec-9528-348c47fd184d/842x480/video.m3u8
+乌龙派出所172堪吉郎的夏天,https://xgct-video.vzcdn.net/314f3e73-5b0d-4516-83da-c79af47fda98/842x480/video.m3u8
+乌龙派出所173激烈冲突慈善义卖会,https://xgct-video.vzcdn.net/23e9a699-95f0-49a1-a97b-b530635bf43d/842x480/video.m3u8
+乌龙派出所174冬眠警官要回来了！,https://xgct-video.vzcdn.net/91fd9d32-d11d-4f16-8316-478c9d2be9af/842x480/video.m3u8
+乌龙派出所175秘境!度井仲县,https://xgct-video.vzcdn.net/794e6c03-f97d-450f-9981-bad5c6a005fb/842x480/video.m3u8
+乌龙派出所176马戏团交响曲,https://xgct-video.vzcdn.net/5d292d7f-ea23-491c-89d7-2f8bf233d13e/842x480/video.m3u8
+乌龙派出所177送报少年勘吉的故事,https://xgct-video.vzcdn.net/d7085cb9-24d6-45ef-a998-bd1bcd9e6dda/842x480/video.m3u8
+乌龙派出所178大冲突!两津vs乌鸦,https://xgct-video.vzcdn.net/82cb7cd9-c8bd-4eb6-9fdd-968cae2a93de/842x480/video.m3u8
+乌龙派出所179圭一丶丽子的夫妻漫才,https://xgct-video.vzcdn.net/fc5c2959-ae75-4d3c-bedc-9e161dd355af/842x480/video.m3u8
+乌龙派出所180阿两开计程车,https://xgct-video.vzcdn.net/0f5d06c0-0f38-41ca-bc2f-33fc5ce17ee0/842x480/video.m3u8
+乌龙派出所181快跑稳赢金太郎,https://xgct-video.vzcdn.net/e8e04d1f-b530-4a10-a431-641228538bf5/842x480/video.m3u8
+乌龙派出所182两津成为艺术家,https://xgct-video.vzcdn.net/3279c92f-606b-467b-9f4c-70210bcad044/842x480/video.m3u8
+乌龙派出所183伊步的宝贝,https://xgct-video.vzcdn.net/67c03f90-6c93-4c77-a2e6-8e1f837d95c4/842x480/video.m3u8
+乌龙派出所184误会一场,https://xgct-video.vzcdn.net/b57b9926-0cad-4ca7-bdf9-40886c4ed3f1/842x480/video.m3u8
+乌龙派出所185两津加入选举,https://xgct-video.vzcdn.net/44f1b06c-1640-4ee6-85c8-47488589c88e/842x480/video.m3u8
+乌龙派出所186奖金争夺战5,https://xgct-video.vzcdn.net/45a4bade-ae41-4957-98bd-996bfb7b24de/842x480/video.m3u8
+乌龙派出所187身体交换记,https://xgct-video.vzcdn.net/d38ad940-525a-477a-9540-4fda82a79107/842x480/video.m3u8
+乌龙派出所188寺井固执的追查,https://xgct-video.vzcdn.net/afc46beb-e5f7-4a8c-b6d6-dd4f6dac3da2/842x480/video.m3u8
+乌龙派出所189这里是东银座歌舞技町,https://xgct-video.vzcdn.net/dc418a5e-7073-415d-b11a-3f8010ad0241/842x480/video.m3u8
+乌龙派出所190醒来吧！老实人两津,https://xgct-video.vzcdn.net/eccf101d-a6a9-4d81-9dbf-6fb4570b72ec/842x480/video.m3u8
+乌龙派出所191大江户搜查网,https://xgct-video.vzcdn.net/a00cc5b3-776f-45f1-8493-5c68a8179ffe/842x480/video.m3u8
+乌龙派出所192教你如何饲养宠物吧,https://xgct-video.vzcdn.net/a4ce1cba-db46-4385-ae4c-50de41e1bedd/842x480/video.m3u8
+乌龙派出所193回来了！交通安全之鬼,https://xgct-video.vzcdn.net/66569ab2-6c41-4550-81b5-1f00f8cda1a6/842x480/video.m3u8
+乌龙派出所194无轨电车巴士物语,https://xgct-video.vzcdn.net/29dc5d00-2564-420d-b479-c2fa931ffb02/842x480/video.m3u8
+乌龙派出所195悲惨的生日,https://xgct-video.vzcdn.net/f4a9bc35-627b-48a9-9ff3-3192907d5196/842x480/video.m3u8
+乌龙派出所196圣桥的白线漂流,https://xgct-video.vzcdn.net/57de5c81-19f1-4d2e-bb32-fd2a269ab466/842x480/video.m3u8
+乌龙派出所197给亲爱的大哥,https://xgct-video.vzcdn.net/75e532a4-f730-4eba-b0f1-9107ec85924c/842x480/video.m3u8
+乌龙派出所198人情和义理的摇篮曲,https://xgct-video.vzcdn.net/b943a22f-18b0-4894-8aa4-16f79428ec68/842x480/video.m3u8
+乌龙派出所199快帮我把涂鸦擦掉,https://xgct-video.vzcdn.net/d741574f-7171-4c3d-913b-d152c315cdc0/842x480/video.m3u8
+乌龙派出所200两津城改造计划,https://xgct-video.vzcdn.net/562d2428-543f-4f59-9642-546b2ca09192/842x480/video.m3u8
+乌龙派出所201偷窃收视率的男人,https://xgct-video.vzcdn.net/7a5a63bc-b7f0-4ea7-9f2d-405db632bee7/842x480/video.m3u8
+乌龙派出所202两津的禁酒令,https://xgct-video.vzcdn.net/79d66071-9912-4fde-b156-dde813fad0aa/842x480/video.m3u8
+乌龙派出所203超级编辑,https://xgct-video.vzcdn.net/19345500-4612-4dd6-96d7-eef05782b4f3/842x480/video.m3u8
+乌龙派出所204两津成为大富翁,https://xgct-video.vzcdn.net/2700eae2-2997-4654-98b2-55e9d8cc3b35/842x480/video.m3u8
+乌龙派出所205庶民区警察,https://xgct-video.vzcdn.net/cbcad6d4-8292-439c-8a75-a786bbdfb406/842x480/video.m3u8
+乌龙派出所206超级幼稚园儿 柠檬,https://xgct-video.vzcdn.net/db0775d5-3e1e-4b5d-8f88-48b611e6b27f/842x480/video.m3u8
+乌龙派出所207忍者学校开幕了,https://xgct-video.vzcdn.net/59ddcf3e-bd62-48b8-b08f-6a85c4da8894/842x480/video.m3u8
+乌龙派出所208爸爸是孩子王,https://xgct-video.vzcdn.net/fa629cca-66f4-4549-8182-182177b2b4bd/842x480/video.m3u8
+乌龙派出所209胸像的愤怒,https://xgct-video.vzcdn.net/658418e4-9408-41da-9edf-2e6646df6a18/842x480/video.m3u8
+乌龙派出所210丽子夏天的回忆,https://xgct-video.vzcdn.net/730484bf-6433-4f22-9587-93f7cff11e00/842x480/video.m3u8
+乌龙派出所211在十二楼见,https://xgct-video.vzcdn.net/6c5ab86b-7375-44b7-a1d9-9d5bcc208cfa/842x480/video.m3u8
+乌龙派出所212一亿元奖金争夺战,https://xgct-video.vzcdn.net/a5649788-50fa-4875-965a-b744af3c782a/842x480/video.m3u8
+乌龙派出所213庙会太鼓,https://xgct-video.vzcdn.net/ce3eebee-8037-412e-ab04-a892158d18c3/842x480/video.m3u8
+乌龙派出所214再见了！阿两,https://xgct-video.vzcdn.net/b8c61795-0b23-47e0-848a-185b5129d51f/842x480/video.m3u8
+乌龙派出所215排行榜王,https://xgct-video.vzcdn.net/48ee9059-c022-4410-b424-43560aab1c94/842x480/video.m3u8
+乌龙派出所216魔法水壶,https://xgct-video.vzcdn.net/9da707b5-8242-4c23-b7d7-8ab6d92baea8/842x480/video.m3u8
+乌龙派出所217天才小学生的初恋,https://xgct-video.vzcdn.net/59089f61-0f31-4a9b-a9ae-f54660fca6ee/842x480/video.m3u8
+乌龙派出所218超级老警察最完美的一天,https://xgct-video.vzcdn.net/ff1e2440-991a-424f-85f1-775fb4bc8e1a/842x480/video.m3u8
+乌龙派出所219两津的脸,https://xgct-video.vzcdn.net/bee52ad9-21af-4087-a223-0ba6012b817d/842x480/video.m3u8
+乌龙派出所220小心强迫推销,https://xgct-video.vzcdn.net/f5a5cb62-0005-4d6d-9ebe-13a2a2f0692b/842x480/video.m3u8
+乌龙派出所221我是女演员龟有两子,https://xgct-video.vzcdn.net/3d71b664-0825-4078-9b70-d09de63e1081/842x480/video.m3u8
+乌龙派出所222史上最惨的大逃脱,https://xgct-video.vzcdn.net/05bf7ebc-accc-4c12-8294-c9c36aadaf83/842x480/video.m3u8
+乌龙派出所223奖金争夺战6,https://xgct-video.vzcdn.net/1f877122-2810-40cd-bbc5-905c68e3d9b7/842x480/video.m3u8
+乌龙派出所224漏馅了！小偷株式会社,https://xgct-video.vzcdn.net/86d990bf-746f-4b54-a1eb-e21f9fe0ba2e/842x480/video.m3u8
+乌龙派出所225飞向天空吧！圣诞节,https://xgct-video.vzcdn.net/b1653f65-0a9b-4389-8872-1f27d63eba51/842x480/video.m3u8
+乌龙派出所226柠檬的父亲参观日,https://xgct-video.vzcdn.net/97452d3b-d7fd-40eb-bc9d-fd2d64fe91ad/842x480/video.m3u8
+乌龙派出所227飞吧！魔法飞毯,https://xgct-video.vzcdn.net/f54ecb2a-4fea-4434-9d5f-e644c19e7c03/842x480/video.m3u8
+乌龙派出所228整人假情报的两津锅,https://xgct-video.vzcdn.net/8ecaad8c-7969-4843-95c9-5393102d4f26/842x480/video.m3u8
+乌龙派出所229便利,https://xgct-video.vzcdn.net/1f6cf9cb-f8f4-491c-87f3-79629d19fe8d/842x480/video.m3u8
+乌龙派出所230今晚现场直播,https://xgct-video.vzcdn.net/57f4be6f-bb78-4845-96f2-8c74cf1b9bd3/842x480/video.m3u8
+乌龙派出所231虾子丶螃蟹丶鱿鱼，巨大生化生物来袭 房客的颜色,https://xgct-video.vzcdn.net/520108d2-2afb-453d-87e5-d4599e4d98c0/842x480/video.m3u8
+乌龙派出所232熊宝宝大作战,https://xgct-video.vzcdn.net/8cf98e24-8b24-4a78-a8dc-6324ba82d825/842x480/video.m3u8
+乌龙派出所233惨！惨！惨！悲剧重演的生日,https://xgct-video.vzcdn.net/4302a262-b3eb-451e-9928-8e07367cf02f/842x480/video.m3u8
+乌龙派出所234冒险家勘吉,https://xgct-video.vzcdn.net/078c2a78-2760-49d3-b7e3-9528d9e614ca/842x480/video.m3u8
+乌龙派出所235打嗝止不住,https://xgct-video.vzcdn.net/0b0241e2-4bea-41a6-8feb-84cfbb5ae3d7/842x480/video.m3u8
+乌龙派出所236善良小偷,https://xgct-video.vzcdn.net/0cf39ea9-5adb-4536-9371-7883bb6b2b2d/842x480/video.m3u8
+乌龙派出所237两津和柠檬的京都之旅,https://xgct-video.vzcdn.net/750f7682-037f-4f3a-bbee-0b908effeed2/842x480/video.m3u8
+乌龙派出所238爱情大沉没,https://xgct-video.vzcdn.net/6df2da35-6c6b-40a7-8612-384d2551f81b/842x480/video.m3u8
+乌龙派出所239街头足球2002,https://xgct-video.vzcdn.net/842e61a9-684c-4a14-9897-4295bc6536d5/842x480/video.m3u8
+乌龙派出所240遇见钥匙狂,https://xgct-video.vzcdn.net/4eb619e3-ad7f-48bf-90fb-240796bfab42/842x480/video.m3u8
+乌龙派出所241中川寻父三千里,https://xgct-video.vzcdn.net/7399ad08-c3a8-463d-8b22-c118642b78aa/842x480/video.m3u8
+乌龙派出所242_1两津最长的一天,https://xgct-video.vzcdn.net/f9654b98-96a2-4ded-a140-80154a035f65/842x480/video.m3u8
+乌龙派出所242_2回来吧！冷血警察,https://xgct-video.vzcdn.net/0c7adc17-d447-4969-b705-9a135f3b8bde/842x480/video.m3u8
+乌龙派出所243秘密任务，搭建五重塔,https://xgct-video.vzcdn.net/cd1e98c1-a3bb-46f3-be32-ad26f0bacb9b/842x480/video.m3u8
+乌龙派出所244本田大震撼！伊步要嫁人,https://xgct-video.vzcdn.net/5b22c97d-4c55-431c-a524-610a7161991f/842x480/video.m3u8
+乌龙派出所245高朋满座！葛饰摔角大赛！,https://xgct-video.vzcdn.net/e615f624-d992-4777-8b73-10644108efff/842x480/video.m3u8
+乌龙派出所246寺井跑吧！为了儿子拿到纪念章！,https://xgct-video.vzcdn.net/fdd2ecc8-f8a9-48ef-a7c5-1d93a76c4c7d/842x480/video.m3u8
+乌龙派出所247开发警用机器人004号 失败太郎登场,https://xgct-video.vzcdn.net/6046e19d-96a5-4d46-900d-4517ed0a7818/842x480/video.m3u8
+乌龙派出所248隐形刑警现了,https://xgct-video.vzcdn.net/3a095273-a522-40c8-b569-da6846c1ac9d/842x480/video.m3u8
+乌龙派出所249柠檬要当姊姊了！,https://xgct-video.vzcdn.net/8f1efc35-9788-43bc-8246-4f39a2dbe9f1/842x480/video.m3u8
+乌龙派出所250一周吃掉三百个西瓜的男人,https://xgct-video.vzcdn.net/af9a4560-0f02-466b-828a-fc1acece7cfb/842x480/video.m3u8
+乌龙派出所251小两津真的是精灵吗？,https://xgct-video.vzcdn.net/e7ee1c08-191c-47b8-99e9-1ccf29485440/842x480/video.m3u8
+乌龙派出所252泳装照大进击,https://xgct-video.vzcdn.net/4e4393a9-a74e-4a5d-88a6-dc148e0af440/842x480/video.m3u8
+乌龙派出所253有好温泉,https://xgct-video.vzcdn.net/34fe6685-a00e-4735-aec9-046ba35e84fd/842x480/video.m3u8
+乌龙派出所254生气喷火的机器人警察,https://xgct-video.vzcdn.net/c9371f2f-a17a-41e2-b296-6d75b29b0372/842x480/video.m3u8
+乌龙派出所255阿两的平民之旅,https://xgct-video.vzcdn.net/0e1bdbd4-7762-4a82-b62b-ba0df960f872/842x480/video.m3u8
+乌龙派出所256_1桃太灰姑娘,https://xgct-video.vzcdn.net/aa30b63a-c426-404d-aa99-64761e41def2/842x480/video.m3u8
+乌龙派出所256_2传真我的一切,https://xgct-video.vzcdn.net/16076bfe-f7b1-4785-8946-d7332072198f/842x480/video.m3u8
+乌龙派出所257利用抚慰系赚大钱,https://xgct-video.vzcdn.net/213027b7-5b5a-4b24-9848-c1994badbcdd/842x480/video.m3u8
+乌龙派出所258难缠老爹御河原,https://xgct-video.vzcdn.net/1e9c9977-69f2-486e-a22f-97ea3238fd04/842x480/video.m3u8
+乌龙派出所259骗人的两津和被骗的两津,https://xgct-video.vzcdn.net/8e35a056-af18-4734-940a-c8e851d1d465/842x480/video.m3u8
+乌龙派出所260决战！节省能源屋,https://xgct-video.vzcdn.net/9f9b7499-0975-4b40-a191-a904c8f15d58/842x480/video.m3u8
+乌龙派出所261阿两的狗儿生活,https://xgct-video.vzcdn.net/66409fb1-4afa-4718-84d4-20f31c6ad98a/842x480/video.m3u8
+乌龙派出所262下町澡堂的壁画,https://play.modujx.com/20230817/Je6Nj8RT/index.m3u8
+乌龙派出所263两津捡到宝 整人节目秘密实况！,https://xgct-video.vzcdn.net/3f3fbde0-82db-4510-8f7f-860fe91b7768/352x240/video.m3u8
+乌龙派出所264奖金争夺战7,https://xgct-video.vzcdn.net/d2624441-8769-47b1-ae43-a233998f21eb/842x480/video.m3u8
+乌龙派出所265天上掉下来的十僟元,https://xgct-video.vzcdn.net/465b8d4d-5ea1-47e5-af92-a931b5d70384/842x480/video.m3u8
+乌龙派出所266飞吧！肩背式直升机！,https://xgct-video.vzcdn.net/7cf63fce-e611-4454-adac-9f39d179c13f/842x480/video.m3u8
+乌龙派出所267阿两变大了,https://xgct-video.vzcdn.net/a31770a9-e584-4c6d-afdd-bea18ea914c1/842x480/video.m3u8
+乌龙派出所268大和魂保存会,https://xgct-video.vzcdn.net/e163ed86-46ff-4240-a46d-3c42c24a34f8/842x480/video.m3u8
+乌龙派出所269阿两化身二十面相,https://xgct-video.vzcdn.net/eee70729-a352-4b11-b388-87652453071b/842x480/video.m3u8
+乌龙派出所270拿回彩券,https://xgct-video.vzcdn.net/260ceb17-d056-4c08-a7f4-877a817b1021/842x480/video.m3u8
+乌龙派出所271ANGEL 7女警队V.S.狂野好汉队！,https://xgct-video.vzcdn.net/a483098c-3a0b-447b-97cf-b5b85efbd0a4/842x480/video.m3u8
+乌龙派出所272柠檬的育婴奋斗记,https://xgct-video.vzcdn.net/bf9702a4-abf4-46f2-96f5-50b5880eee10/842x480/video.m3u8
+乌龙派出所273身为男人就要有野心,https://xgct-video.vzcdn.net/5a85ad4b-1281-4323-89ef-c96599c1046f/842x480/video.m3u8
+乌龙派出所274衰达连连的女儿节生日,https://play.modujx.com/20230817/RR5t4KU4/index.m3u8
+乌龙派出所275两津和两津！？,https://xgct-video.vzcdn.net/0bda6355-f83c-4a33-9bfe-f5b6f6e1f08e/842x480/video.m3u8
+乌龙派出所276这里是雪国,https://xgct-video.vzcdn.net/05f57706-51f2-4a9c-ada4-501d91f95905/842x480/video.m3u8
+乌龙派出所277这里是哪里？电极臭老头,https://xgct-video.vzcdn.net/3e6a3afe-4320-4ac9-ae7c-2e8e9f316432/842x480/video.m3u8
+乌龙派出所278大原长迷上电玩,https://play.modujx.com/20230817/R2MEYQG8/index.m3u8
+乌龙派出所279柠檬最不愿意接触的食物,https://xgct-video.vzcdn.net/fbd388cc-5571-456a-af5a-30e568616f55/842x480/video.m3u8
+乌龙派出所280三年b班勘吉老师,https://xgct-video.vzcdn.net/c5e4909e-f5da-4a4f-a217-ded89307112e/842x480/video.m3u8
+乌龙派出所281课长！两津勘吉,https://xgct-video.vzcdn.net/ac5934df-fd14-411a-8c30-345126cbfdc5/640x360/video.m3u8
+乌龙派出所282两津和小町修成正果,https://xgct-video.vzcdn.net/2f05ca56-6216-4620-bc67-0bb7ad78d7be/842x480/video.m3u8
+乌龙派出所283命达的分歧点,https://xgct-video.vzcdn.net/5cf37166-2beb-4dc4-8e35-fd973a24b063/842x480/video.m3u8
+乌龙派出所284临别的赠礼,https://xgct-video.vzcdn.net/d74ac698-b754-476a-b47c-7038745509da/842x480/video.m3u8
+乌龙派出所285我变成丽子，我成了阿两,https://xgct-video.vzcdn.net/42e11443-3b64-4c48-9c22-69a5e1476ea6/842x480/video.m3u8
+乌龙派出所286飞吧！飞行船队,https://xgct-video.vzcdn.net/85b71aeb-a56d-4d46-8300-039cb343c79b/842x480/video.m3u8
+乌龙派出所287这里是广播电台,https://xgct-video.vzcdn.net/9406c3fb-f696-4119-aabe-6a99813bbcfb/842x480/video.m3u8
+乌龙派出所288热海章鱼之旅,https://xgct-video.vzcdn.net/c9c9a5d3-2df7-4546-998d-7f8878274102/842x480/video.m3u8
+乌龙派出所289到底在那里啊！龟有公园前临时,https://xgct-video.vzcdn.net/74a92d4e-0ba6-4617-8616-39382cfe6f25/842x480/video.m3u8
+乌龙派出所290两津热爱宣言,https://xgct-video.vzcdn.net/038009ee-dc4d-4887-b9cf-f4d922e55836/842x480/video.m3u8
+乌龙派出所291泊草少年之阿飞正传,https://xgct-video.vzcdn.net/674bc916-7fae-46f4-b4cb-f7d9ceedd7bf/842x480/video.m3u8
+乌龙派出所292向祖先问好,https://xgct-video.vzcdn.net/32ac7d72-6861-4b97-b894-9d0cb7c0dea3/842x480/video.m3u8
+乌龙派出所293克服酷暑大作战,https://xgct-video.vzcdn.net/f40aa3bd-9216-48aa-a2e9-7e40737573f4/842x480/video.m3u8
+乌龙派出所294柠檬化身女忍者,https://xgct-video.vzcdn.net/6f30938a-2c90-417e-a1eb-f01f867d3af9/842x480/video.m3u8
+乌龙派出所295老师是个天花乱坠吹牛老头,https://xgct-video.vzcdn.net/41486edb-e5da-4d98-b477-75e9176dc7aa/480x842/video.m3u8
+乌龙派出所296我是谁,https://xgct-video.vzcdn.net/c6d83063-1f3b-4e84-80bb-d1853f52d050/480x842/video.m3u8
+乌龙派出所297錩鲤大骚动,https://xgct-video.vzcdn.net/33b50d4e-2dac-44fa-a1ba-76989615fe2b/480x842/video.m3u8
+乌龙派出所298往日风情,https://xgct-video.vzcdn.net/2c353f0f-eaeb-427c-9fb8-113b5a417a6a/480x842/video.m3u8
+乌龙派出所299东方快车窃盗案,https://xgct-video.vzcdn.net/dcbdcb3a-4981-472c-ba46-a70e722c42cc/480x842/video.m3u8
+乌龙派出所300冲吧！代跑达动会,https://xgct-video.vzcdn.net/11258408-3a53-4377-b2f6-5cdbb3572baa/480x842/video.m3u8
+乌龙派出所301只有两人留守的,https://xgct-video.vzcdn.net/e9231aa0-4779-4c88-8452-b763886f8d4e/842x480/video.m3u8
+乌龙派出所302拼了 站前餐车殊死战,https://xgct-video.vzcdn.net/8a984738-430e-40f5-82cb-7648a9bb4b75/842x480/video.m3u8
+乌龙派出所303奖金争夺战8,https://xgct-video.vzcdn.net/7fce4918-858e-4c5f-9cd8-ff232a7c2135/842x480/video.m3u8
+乌龙派出所304伸缩自如的橡胶阿两,https://xgct-video.vzcdn.net/a82504ac-1158-4b32-bedf-aa42c462e2cb/842x480/video.m3u8
+乌龙派出所305两津流漫画补习班,https://xgct-video.vzcdn.net/4f4e9720-4c24-4be9-9f84-86c9ac05ca35/842x480/video.m3u8
+乌龙派出所306我就是不想做啊 正义使者，两津？,https://xgct-video.vzcdn.net/a2357aad-d207-48c6-9324-085a12acdbca/842x480/video.m3u8
+乌龙派出所307奈绪子 意外的一天,https://xgct-video.vzcdn.net/e10fd177-6628-43bc-a42d-e730fccf229f/842x480/video.m3u8
+乌龙派出所308中川家族继承风波,https://xgct-video.vzcdn.net/283ff629-0434-4db9-a23c-f9ff4ec870cc/842x480/video.m3u8
+乌龙派出所309两津VS白鸟 打工大暴走,https://xgct-video.vzcdn.net/77f3d750-eb86-4bc6-b27e-16121abc9c0d/842x480/video.m3u8
+乌龙派出所310正直的阿两,https://xgct-video.vzcdn.net/fd959181-6655-40c6-adda-6ca0669df6a3/842x480/video.m3u8
+乌龙派出所311搞笑制裁者,https://xgct-video.vzcdn.net/c6194714-4f08-4040-8228-049f2e560582/842x480/video.m3u8
+乌龙派出所312将平头推广到全世界吧,https://xgct-video.vzcdn.net/bdb76dd2-4657-487a-83d3-0ca6bf7d7b2f/842x480/video.m3u8
+乌龙派出所313脚踏车大作战,https://xgct-video.vzcdn.net/97c42e6a-1b2a-4d0e-94b9-ec3c1fc65671/842x480/video.m3u8
+乌龙派出所314阴盛阳衰,https://xgct-video.vzcdn.net/0222d5ff-d1b1-4e7b-90e8-0a46a550fa98/842x480/video.m3u8
+乌龙派出所315欢迎来到龟有商店街,https://xgct-video.vzcdn.net/a5a1ced9-8028-4f5a-890e-f079f3222815/842x480/video.m3u8
+乌龙派出所316超神田寿司经营权对决,https://xgct-video.vzcdn.net/b27f0ae3-8f5d-4733-a2b2-fbe4e59c4631/842x480/video.m3u8
+乌龙派出所317赏樱真辛苦,https://xgct-video.vzcdn.net/2a299db0-6917-46df-99ce-a8c6c7ef225c/842x480/video.m3u8
+乌龙派出所318两津当电影导演,https://xgct-video.vzcdn.net/0e75374d-8aef-40ca-9974-a91ebb6dd16c/842x480/video.m3u8
+乌龙派出所319激走! 奥之细道,https://xgct-video.vzcdn.net/72368057-ced9-4c38-b3ae-4266677e10f9/842x480/video.m3u8
+乌龙派出所320所长，请安心养病,https://xgct-video.vzcdn.net/9f91070f-5de3-4962-857e-a2d7004c5ea6/842x480/video.m3u8
+乌龙派出所321可爱王子龟有假期,https://xgct-video.vzcdn.net/42fb6317-8b0d-4bd0-966f-f8b5895b00e1/842x480/video.m3u8
+乌龙派出所322这缠是男人的采草苺之旅,https://xgct-video.vzcdn.net/ce9c56be-7a0a-4dc7-89ce-835a9c55e60f/842x480/video.m3u8
+乌龙派出所323鸵鸟 欢迎,https://xgct-video.vzcdn.net/c3e2db55-ea8e-4012-8b3e-96d13988d7ed/842x480/video.m3u8
+乌龙派出所324惨烈的战斗将棋,https://xgct-video.vzcdn.net/acbc8b65-9188-4afb-bafd-6432189e7ab4/842x480/video.m3u8
+乌龙派出所325铁腕两津,https://xgct-video.vzcdn.net/48cf81b9-d288-4973-a591-5b16c6644607/842x480/video.m3u8
+乌龙派出所326寻找日暮三千里,https://xgct-video.vzcdn.net/910786eb-8e9a-4afe-a415-3902b23ed29c/842x480/video.m3u8
+乌龙派出所327爸爸是露营行家,https://xgct-video.vzcdn.net/2b48068f-287c-46f7-adcd-41e93f0e162d/842x480/video.m3u8
+乌龙派出所328无人岛高尔夫,https://xgct-video.vzcdn.net/114f2e65-5b6b-4c1b-9fa2-628945e3e239/842x480/video.m3u8
+乌龙派出所329再度登场！本田一家Final,https://xgct-video.vzcdn.net/e10575de-e203-4112-b0ca-655fe06d176b/842x480/video.m3u8
+乌龙派出所330柠檬闹罢工,https://xgct-video.vzcdn.net/6b681f0d-45e1-459d-90d8-42336305d05b/842x480/video.m3u8
+乌龙派出所331变形！Before←→After,https://xgct-video.vzcdn.net/3d70c152-200f-46e3-ba63-8bcdf8a6866f/842x480/video.m3u8
+乌龙派出所332阿两小顽童,https://xgct-video.vzcdn.net/e4dae433-2b0b-4afa-868e-7d1c631af937/842x480/video.m3u8
+乌龙派出所333庙会设摊的回忆,https://xgct-video.vzcdn.net/de689a80-ba74-4ece-9b0e-a44cbd732b80/842x480/video.m3u8
+乌龙派出所334大家来跳舞,https://xgct-video.vzcdn.net/f2a71d20-f491-4702-a9d7-b0816178de0c/842x480/video.m3u8
+乌龙派出所335发明王两津,https://xgct-video.vzcdn.net/9eb5a466-5451-49d0-85ab-c6866d540212/842x480/video.m3u8
+乌龙派出所336开怀大笑歹势啦,https://xgct-video.vzcdn.net/5260ced6-fd3b-4e5f-b68d-755a157a167d/842x480/video.m3u8
+乌龙派出所337花之子 阿两,https://xgct-video.vzcdn.net/6d91f614-3d71-4986-9562-21511d17804f/842x480/video.m3u8
+乌龙派出所338奋斗吧 熊警察！,https://xgct-video.vzcdn.net/488a37b0-5507-4dbb-a850-2014215895a0/842x480/video.m3u8
+乌龙派出所339爱战士 两津勘吉,https://xgct-video.vzcdn.net/6044f724-cadd-418b-8276-9cedce530d81/842x480/video.m3u8
+乌龙派出所340征服鲔鱼的警察,https://xgct-video.vzcdn.net/7ad896ac-b984-47b1-92bb-cceb780de7a2/842x480/video.m3u8
+乌龙派出所341再见阿两大作战,https://xgct-video.vzcdn.net/88377610-ea9f-4c06-9d87-abaa8161f459/842x480/video.m3u8
+第01集传说中的热裤刑警登场,https://xgct-video.vzcdn.net/c641e9a5-49c6-4e94-b0fe-ba3dfd832a67/842x480/video.m3u8
+第02集所长,那就是巴黎的灯,https://xgct-video.vzcdn.net/609a45ea-aeb0-4fc7-8fdd-09220e8d6dff/352x240/video.m3u8
+第03集假期是越激烈越过瘾！？,https://xgct-video.vzcdn.net/61554630-f855-48d6-a6c7-935391ba84a9/842x480/video.m3u8
+第04集终极警探,史上最差劲的决战,https://xgct-video.vzcdn.net/86096711-3867-401d-87b9-b7a2acc0504d/842x480/video.m3u8
+第05集地狱劈腿约会,https://xgct-video.vzcdn.net/830ee503-de40-4cf4-8583-d2be1042d316/842x480/video.m3u8
+第06集两津的野心！时空穿梭战国传,https://xgct-video.vzcdn.net/cbbfd674-16da-4848-9a2f-3fcf3d92a9de/640x360/video.m3u8
+第07集喔多洛奇摸摸洛奇岛的大决战,https://xgct-video.vzcdn.net/ace6819b-c841-4beb-8523-0500088d866a/842x480/video.m3u8
+第08集2001年京都之旅未来篇,https://xgct-video.vzcdn.net/fcde66ed-d14a-40d8-8919-54e0b458bd1e/842x480/video.m3u8
+第09集横越欧洲！拯救丽子大作战,https://xgct-video.vzcdn.net/d04e12b4-ef66-4462-8601-6c6eb0e1adba/842x480/video.m3u8
+第10集Let's Go 长崎！爱上卡车大姐,https://xgct-video.vzcdn.net/be8d3671-6d14-4e91-b582-cf7a6d7c0273/842x480/video.m3u8
+第11集两津VS忍者军团！後江户城黄金传说,https://xgct-video.vzcdn.net/3dd2aa13-d0d0-40d8-a4fd-a27591e035b8/842x480/video.m3u8
+第12集拟宝珠一家同行IN夏威夷大暴走,https://xgct-video.vzcdn.net/f1439903-51f5-43e5-a04a-6dfb265b76f5/842x480/video.m3u8
+第13集世界第一最强警察争夺战！,https://xgct-video.vzcdn.net/66e7d67c-e04b-4b2a-bb4a-97e5aaa4aa17/842x480/video.m3u8
+第14集网走到东京的列车大暴走！两津vs功夫老奶奶集网走到东京的列车大暴走！两津vs功夫老奶奶,https://xgct-video.vzcdn.net/20aceace-c15a-4d2d-9f7a-91c36225b2b6/842x480/video.m3u8
+第15集我和我自己！？浅草少年侦探团！,https://xgct-video.vzcdn.net/380a0cae-f83a-422b-b9ec-cff64999503d/842x480/video.m3u8
+第16集目标！龟有超级巨星！！两津式偶像之路！,https://xgct-video.vzcdn.net/64da5230-ec3d-41f9-9a06-606f70a5aa6a/842x480/video.m3u8
+【乌龙派出所真人版】第1集(上),https://youtu.be/YJLkvn9dbRM?si=d1tANNIMAl1PJd22
+【乌龙派出所真人版】第1集(下),https://youtu.be/K8tiMsM6YdM?si=LeVy96Uhi5dghQ4c
+【乌龙派出所真人版】第2集,https://youtu.be/KnkCWqenF4Q?si=2Bwayp9e7eoeGkLV
+【乌龙派出所真人版】第3集,https://youtu.be/VeaiUawyibc?si=YxlCOYNASghCZbI0
+【乌龙派出所真人版】第4集,https://youtu.be/xtTGqaVBGGE?si=GXltfdESQZ5RfDo3
+【乌龙派出所真人版】第5集,https://youtu.be/0BQOKHCoqWs?si=XWLjM7GVWx3VFFHc
+【乌龙派出所真人版】第6集,https://youtu.be/Nf1C3n2xTgw?si=ctOnio-B6m61ntqy
+【乌龙派出所真人版】第7集,https://youtu.be/D07NJT7NUp8?si=cYeaAOPYetZD5cgi
+【乌龙派出所真人版】第8集(上),https://youtu.be/RR-GKAlkArk?si=ef-AEOGSb42Q1A1O
+【乌龙派出所真人版】第8集(下),https://youtu.be/EAeH0tIG6Jc?si=khwtj57ULRKGP-xx
