@@ -1,0 +1,61 @@
+{
+  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+  "drives": [
+    {
+      "name": "💢小雅",
+      "server": "http://alist.xiaoya.pro"
+    },
+    {
+      "name": "💫觸光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "🥼帥盤",
+      "server": "https://hi.shuaipeng.wang"
+    },
+    {
+      "name": "🌊七米藍",
+      "server": "https://al.chirmyram.com"
+    },
+    {
+      "name": "🐉神族九帝",
+      "server": "https://alist.shenzjd.com"
+    },
+    {
+      "name": "梓澪",
+      "server": "https://zi0.cc"
+    },
+    {
+      "name": "🦀9T(Adult)",
+      "server": "https://drive.9t.ee"
+    },
+    {
+      "name": "☃️姬路白雪",
+      "server": "https://pan.jlbx.xyz"
+    },
+    {
+      "name": "✨星梦",
+      "server": "https://pan.bashroot.top"
+    },
+    {
+      "name": "💦訊維云盤",
+      "server": "https://pan.xwbeta.com"
+    },
+    {
+      "name": "範本",
+      "server": "https://one.fongmi.com",
+      "search": true,
+      "hidden": false,
+      "login": {
+        "username": "fongmi",
+        "password": "fongmi"
+      },
+      "params": [
+        {
+          "path": "/安齋拉拉",
+          "pass": "18181818"
+        }
+      ]
+    }
+  ]
+}

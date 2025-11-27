@@ -1,0 +1,6 @@
+[
+  {
+    "name": "Volitation-NAS",
+    "server": "smb://tvbox:Tv1234567890@192.168.1.21/video"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "drives": [
+    {
+      "name": "Volitation",
+      "server": "https://siaoyao.cloudns.ch:5006",
+      "user": "tvbox",
+      "pass": "Tv1234567890"
+    },
+    {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com/dav",
+      "user": "alist",
+      "pass": "alist"
+    }
+  ]
+}
